@@ -1,4 +1,4 @@
-<map version="freeplane 1.2.0">
+<map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1411539182103"><richcontent TYPE="NODE">
 
@@ -16,25 +16,26 @@
 <hook NAME="AutomaticEdgeColor" COUNTER="7"/>
 <font NAME="Waree" SIZE="17" BOLD="false" ITALIC="false"/>
 <edge COLOR="#0033ff"/>
-<hook NAME="MapStyle" background="#f0f2f0" zoom="1.334">
+<hook NAME="MapStyle" background="#f0f2f0" zoom="1.111">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right">
 <stylenode LOCALIZED_TEXT="default" MAX_WIDTH="600" COLOR="#000099" STYLE="fork">
-<font NAME="URW Gothic L" SIZE="11" BOLD="true" ITALIC="false"/>
-<edge STYLE="bezier" WIDTH="3"/>
+<font NAME="Verdana" SIZE="10" BOLD="false" ITALIC="false"/>
+<edge STYLE="bezier" WIDTH="2"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.details" COLOR="#000001" BACKGROUND_COLOR="#ffeb89" STYLE="bubble" FORMAT="STANDARD_FORMAT" MIN_WIDTH="1">
-<font NAME="SansSerif" SIZE="11" BOLD="false" ITALIC="false"/>
+<font NAME="SansSerif" SIZE="10" BOLD="false" ITALIC="false"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.note" COLOR="#000000" BACKGROUND_COLOR="#f7f7f7" STYLE="bubble" FORMAT="NO_FORMAT" MAX_WIDTH="2000">
-<font NAME="Monospaced" SIZE="11" BOLD="false"/>
+<font NAME="Monospaced" SIZE="10" BOLD="false"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="defaultstyle.floating" MAX_WIDTH="2000">
+<stylenode LOCALIZED_TEXT="defaultstyle.floating">
 <edge STYLE="hide_edge"/>
-<cloud COLOR="#ccffff" SHAPE="ROUND_RECT"/>
+<cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
+<font SIZE="12"/>
 </stylenode>
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right">
@@ -49,23 +50,24 @@
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.important" COLOR="#ff0000">
 <icon BUILTIN="yes"/>
-<font NAME="Ubuntu" SIZE="12"/>
+<font NAME="Ubuntu" SIZE="14"/>
 <cloud COLOR="#ffffff" SHAPE="ARC"/>
 </stylenode>
-<stylenode TEXT="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" COLOR="#000001" BACKGROUND_COLOR="#ffeeaa" STYLE="bubble" FORMAT="STANDARD_FORMAT" MIN_WIDTH="1">
-<font NAME="SansSerif" SIZE="11" BOLD="false" ITALIC="false"/>
+<stylenode TEXT="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" STYLE="fork" FORMAT="STANDARD_FORMAT" MIN_WIDTH="1">
+<font NAME="SansSerif" BOLD="false" ITALIC="false"/>
 <edge STYLE="horizontal"/>
 </stylenode>
-<stylenode TEXT="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;">
+<stylenode TEXT="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" COLOR="#000000" BACKGROUND_COLOR="#e8e8e8" STYLE="bubble">
+<font NAME="Verdana" SIZE="10" BOLD="false"/>
 <edge STYLE="horizontal"/>
 </stylenode>
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="right">
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#000000">
-<font SIZE="18"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level.root">
+<font NAME="URW Gothic L" SIZE="18" BOLD="false"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,1" COLOR="#0033ff">
-<font SIZE="16"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,1">
+<font SIZE="12"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="AutomaticLayout.level,2" COLOR="#00b439">
 <font SIZE="14"/>
@@ -102,23 +104,23 @@
 <font SIZE="13"/>
 <node TEXT="&#x441;&#x432;&#x43e;&#x439;&#x441;&#x442;&#x432;&#x430;" ID="ID_282533104" CREATED="1411543568461" MODIFIED="1411552681952">
 <font SIZE="12"/>
-<node TEXT="defaults" LOCALIZED_STYLE_REF="default" ID="ID_1963680992" CREATED="1411551983476" MODIFIED="1411628288326">
+<node TEXT="defaults" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1963680992" CREATED="1411551983476" MODIFIED="1450364077190">
 <node TEXT="&#x443;&#x441;&#x442;&#x430;&#x43d;&#x43e;&#x432;&#x43a;&#x430; &#x437;&#x43d;&#x430;&#x447;&#x435;&#x43d;&#x438;&#x439; &quot;&#x43f;&#x43e; &#x443;&#x43c;&#x43e;&#x43b;&#x447;&#x430;&#x43d;&#x438;&#x44e;&quot; &#x443;&#xa;&#x43a;&#x43b;&#x430;&#x441;&#x441;&#x430; &#x43c;&#x43e;&#x434;&#x435;&#x43b;&#x435;&#x439;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_441089663" CREATED="1411628290679" MODIFIED="1411628426336"/>
 <node TEXT="var Advertisement = Backbone.Model.extend({&#xa;  defaults: {&#xa;    make: &apos;&#x422;&#x43e;&#x439;&#x43e;&#x442;&#x430;&apos;,&#xa;    model: &apos;&#x41a;&#x43e;&#x440;&#x43e;&#x43b;&#x43b;&#x430;&apos;,&#xa;    year: 2010,&#xa;    price: 2000000&#xa;    }&#xa;});" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_512453807" CREATED="1411628427535" MODIFIED="1411628507351"/>
 </node>
-<node TEXT="intialize" ID="ID_301450419" CREATED="1411551996196" MODIFIED="1411552051050">
+<node TEXT="intialize" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_301450419" CREATED="1411551996196" MODIFIED="1450364076573">
 <node TEXT="&#x443;&#x441;&#x442;&#x430;&#x43d;&#x43e;&#x432;&#x43a;&#x430; &#x43c;&#x435;&#x442;&#x43e;&#x434;&#x43e;&#x432;, &#x43a;&#x43e;&#x442;&#x43e;&#x440;&#x44b;&#x435; &#x432;&#x44b;&#x437;&#x44b;&#x432;&#x430;&#x44e;&#x442;&#x441;&#x44f; &#x43f;&#x440;&#x438; &#x441;&#x43e;&#x437;&#x434;&#x430;&#x43d;&#x438;&#x438;&#xa;&#x43d;&#x43e;&#x432;&#x43e;&#x433;&#x43e; &#x43e;&#x431;&#x44a;&#x435;&#x43a;&#x442;&#x430; &#x434;&#x430;&#x43d;&#x43d;&#x43e;&#x433;&#x43e; &#x43a;&#x43b;&#x430;&#x441;&#x441;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1437286934" CREATED="1411628530952" MODIFIED="1411628593216"/>
 <node TEXT="var Advertisement = Backbone.Model.extend({&#xa;  initialize: function() {&#xa;    console.log(&apos;&#x421;&#x43e;&#x437;&#x434;&#x430;&#x43d; &#x43d;&#x43e;&#x432;&#x44b;&#x439; &#x43e;&#x431;&#x44a;&#x435;&#x43a;&#x442;!&apos;);&#xa;  }&#xa;});" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_798220209" CREATED="1411628594019" MODIFIED="1411628676571"/>
 </node>
 </node>
 <node TEXT="&#x43c;&#x435;&#x442;&#x43e;&#x434;&#x44b;" ID="ID_402096656" CREATED="1411543800394" MODIFIED="1411552679927">
 <font SIZE="12"/>
-<node TEXT="get" ID="ID_1453887633" CREATED="1411544227386" MODIFIED="1411544229026">
+<node TEXT="get" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1453887633" CREATED="1411544227386" MODIFIED="1450364072025">
 <node TEXT="&#x43f;&#x43e;&#x43b;&#x443;&#x447;&#x438;&#x442;&#x44c; &#x437;&#x43d;&#x430;&#x447;&#x435;&#x43d;&#x438;&#x44f; &#x438;&#x437; &#x43e;&#x431;&#x44a;&#x435;&#x43a;&#x442;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_862465280" CREATED="1411551906659" MODIFIED="1411551923516"/>
 <node TEXT="collection.get(&apos;feild&apos;);" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_440223620" CREATED="1411628125104" MODIFIED="1411628189261"/>
 <node TEXT="&#x43f;&#x43e;&#x43b;&#x44f; - &#x43c;&#x43e;&#x433;&#x443;&#x442; &#x431;&#x44b;&#x442;&#x44c; &#x43e;&#x431;&#x44a;&#x435;&#x43a;&#x442;&#x430;&#x43c;&#x438;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1644478018" CREATED="1411628192215" MODIFIED="1411628268248"/>
 </node>
-<node TEXT="set" ID="ID_752450710" CREATED="1411544223399" MODIFIED="1411544225455">
+<node TEXT="set" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_752450710" CREATED="1411544223399" MODIFIED="1450364073557">
 <node TEXT="model.set(&apos;price&apos;, 1500000);" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1528834569" CREATED="1411544671912" MODIFIED="1411544896287">
 <node TEXT="&#x43e;&#x434;&#x43d;&#x43e; &#x437;&#x43d;&#x430;&#x447;&#x435;&#x43d;&#x438;&#x435;" ID="ID_1968787359" CREATED="1411553273175" MODIFIED="1411553280120"/>
 </node>
