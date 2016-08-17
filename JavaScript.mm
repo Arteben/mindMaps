@@ -14,7 +14,7 @@
 </html>
 </richcontent>
 <hook NAME="AutomaticEdgeColor" COUNTER="1"/>
-<hook NAME="MapStyle" background="#f0f2f0" zoom="1.478">
+<hook NAME="MapStyle" background="#f0f2f0" zoom="1.222">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -80,8 +80,9 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="ES-262(5.1)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1080051988" CREATED="1394551237280" MODIFIED="1460371889182">
+<node TEXT="ES-262(5.1)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1080051988" CREATED="1394551237280" MODIFIED="1471424650764">
 <edge COLOR="#009900"/>
+<font SIZE="16"/>
 <node TEXT="varible" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_588138809" CREATED="1400682422783" MODIFIED="1439988301185">
 <icon BUILTIN="pencil"/>
 <node TEXT="variable types" LOCALIZED_STYLE_REF="default" ID="ID_166464033" CREATED="1400682583515" MODIFIED="1439980543586">
@@ -349,7 +350,22 @@
 <font SIZE="10"/>
 <node TEXT="this" ID="ID_696053019" CREATED="1405344746442" MODIFIED="1405344751672">
 <node TEXT="&#x43a;&#x43b;&#x44e;&#x447;&#x435;&#x432;&#x43e;&#x435; &#x441;&#x43b;&#x43e;&#x432;&#x43e; this &#x43f;&#x43e;&#x437;&#x432;&#x43e;&#x43b;&#x44f;&#x435;&#x442; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430;&#x442;&#x44c;&#xa;&#x441; &#x43e;&#x431;&#x44a;&#x435;&#x43a;&#x442;&#x430;&#x43c;&#x438;, &#x438;&#x43c;&#x435;&#x44f; &#x447;&#x435;&#x440;&#x435;&#x437; &#x44d;&#x442;&#x43e; &#x43a;&#x43b;&#x44e;&#x447;&#x435;&#x432;&#x43e;&#x435; &#x441;&#x43b;&#x43e;&#x432;&#x43e;&#xa;&#x434;&#x43e;&#x441;&#x442;&#x443;&#x43f; &#x43a; &#x43f;&#x43e;&#x43b;&#x44f;&#x43c; &#x43e;&#x431;&#x44a;&#x435;&#x43a;&#x442;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1678652929" CREATED="1405346514609" MODIFIED="1405346595019"/>
+<node TEXT="" ID="ID_1643642093" CREATED="1464782869312" MODIFIED="1464782889332">
+<icon BUILTIN="info"/>
 <node TEXT="&gt; function getIn(){&#xa;... return this.x;&#xa;... }&#xa;&#xa;&gt; var obj1 = {get: getIn, x: 1};&#xa;&#xa;&gt; var obj2 = {get: getIn, x: 2};&#xa;&#xa;&gt; obj1.get();&#xa;1&#xa;&gt; obj2.get();&#xa;2" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1886115674" CREATED="1405346204479" MODIFIED="1405346505397"/>
+</node>
+<node TEXT="set context" ID="ID_223292133" CREATED="1464782874089" MODIFIED="1464783341908">
+<node TEXT="&#x432;&#x44b;&#x437;&#x432;&#x430;&#x442;&#x44c; &#x444;&#x443;&#x43d;&#x446;&#x43a;&#x446;&#x438;&#x44e; &#x441; &#x43e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x435;&#x43d;&#x43d;&#x44b;&#x43c; &#x43a;&#x43e;&#x43d;&#x442;&#x435;&#x43a;&#x441;&#x442;&#x43e;&#x43c;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1583577277" CREATED="1464783354430" MODIFIED="1464784046819"/>
+<node TEXT="call" ID="ID_335671114" CREATED="1464783274267" MODIFIED="1464783276164">
+<node TEXT="call(cont, arg1, arg2...);" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1916312675" CREATED="1464783347043" MODIFIED="1464783478423"/>
+<node TEXT="a.sum.call(d)" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1465777509" CREATED="1464783479779" MODIFIED="1464783523883"/>
+</node>
+<node TEXT="apply" ID="ID_1358745460" CREATED="1464783535076" MODIFIED="1464783537915">
+<node TEXT="apply(cont, array)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1503432829" CREATED="1464783778842" MODIFIED="1464783795706"/>
+<node TEXT="&#x43e;&#x442;&#x43b;&#x438;&#x447;&#x430;&#x435;&#x442;&#x441;&#x44f; &#x43e;&#x442; call &#x442;&#x435;&#x43c;, &#x447;&#x442;&#x43e; &#x43f;&#x440;&#x438;&#x43d;&#x438;&#x43c;&#x430;&#x435;&#x442; &#x43c;&#x430;&#x441;&#x441;&#x438;&#x432;&#xa;&#x43f;&#x430;&#x440;&#x430;&#x43c;&#x435;&#x442;&#x440;&#x43e;&#x432;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1962787591" CREATED="1464783976042" MODIFIED="1464783999487"/>
+<node TEXT="a.apply(cont,[val_2, val_3, val_4])" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1468381909" CREATED="1464783797588" MODIFIED="1464784027038"/>
+</node>
+</node>
 </node>
 <node TEXT="arguments" ID="ID_828445112" CREATED="1405344752917" MODIFIED="1405344926742">
 <node TEXT="&#x43f;&#x435;&#x440;&#x435;&#x43c;&#x435;&#x43d;&#x430;&#x44f;, &#x43a;&#x43e;&#x442;&#x43e;&#x440;&#x430;&#x44f; &#x438;&#x43c;&#x435;&#x435;&#x442; &#x43d;&#x435;&#x43a;&#x43e;&#x442;&#x43e;&#x440;&#x44b;&#x435; &#x441;&#x432;&#x43e;&#x439;&#x441;&#x442;&#x432;&#x430; &#x43c;&#x430;&#x441;&#x441;&#x438;&#x432;&#x430;&#xa;&#x438; &#x43f;&#x43e;&#x437;&#x432;&#x43e;&#x43b;&#x44f;&#x435;&#x442; &#x438;&#x43c;&#x435;&#x442;&#x44c; &#x434;&#x43e;&#x441;&#x442;&#x443;&#x43f; &#x43a; &#x440;&#x430;&#x437;&#x43b;&#x438;&#x447;&#x43d;&#x43e;&#x43c;&#x443; &#x447;&#x438;&#x441;&#x43b;&#x443; &#x430;&#x440;&#x433;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x43e;&#x432;&#xa;&#x444;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x438;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1539121495" CREATED="1405344932634" MODIFIED="1405344998855"/>
@@ -425,8 +441,7 @@
 <node TEXT="this" ID="ID_399040608" CREATED="1461600272652" MODIFIED="1461600274973"/>
 </node>
 </node>
-<node TEXT="scope variables" LOCALIZED_STYLE_REF="default" ID="ID_1996538092" CREATED="1400848426157" MODIFIED="1461600582656">
-<icon BUILTIN="pencil"/>
+<node TEXT="scope variables" LOCALIZED_STYLE_REF="default" ID="ID_1996538092" CREATED="1400848426157" MODIFIED="1464781566344">
 <node TEXT="global" ID="ID_1034618469" CREATED="1400850889695" MODIFIED="1439987911715">
 <node TEXT="&#x43e;&#x431;&#x44a;&#x44f;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435; &#x432;&#x43d;&#x435; &#x444;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x44f;&#x445;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_36918375" CREATED="1400850902344" MODIFIED="1446132712998"/>
 <node TEXT="&#x43e;&#x431;&#x44a;&#x44f;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435; &#x431;&#x435;&#x437; &quot;var&quot;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_913551909" CREATED="1405328885172" MODIFIED="1446132712994"/>
@@ -450,20 +465,22 @@
 <node TEXT="var s = 39;" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_270044709" CREATED="1405329355444" MODIFIED="1405329372075"/>
 </node>
 <node TEXT="&#x437;&#x43d;&#x430;&#x447;&#x435;&#x43d;&#x438;&#x435; &#x431;&#x435;&#x437; &#x43e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_1621421945" CREATED="1400851099225" MODIFIED="1405329331277">
-<node TEXT="undefined" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_976580589" CREATED="1400851136365" MODIFIED="1405329347414"/>
+<node TEXT="undefined" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_976580589" CREATED="1400851136365" MODIFIED="1405329347414">
+<node TEXT="&#x43c;&#x43e;&#x436;&#x43d;&#x43e; &#x43f;&#x435;&#x440;&#x435;&#x43e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x438;&#x442;&#x44c;" ID="ID_1933640221" CREATED="1464781737051" MODIFIED="1464781744687"/>
+</node>
 </node>
 </node>
 <node TEXT="typeof" ID="ID_1511465528" CREATED="1440064125129" MODIFIED="1440064135508">
 <node TEXT="&#x43e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x44f;&#x435;&#x442; &quot;&#x442;&#x438;&#x43f;&quot; &#x43f;&#x435;&#x440;&#x435;&#x43c;&#x435;&#x43d;&#x43d;&#x43e;&#x439;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_555050913" CREATED="1446131896866" MODIFIED="1446132527418"/>
 <node TEXT="&#x440;&#x435;&#x437;&#x443;&#x43b;&#x44c;&#x442;&#x430;&#x442;&#x44b; &#x432;&#x44b;&#x434;&#x430;&#x447;&#x438;" ID="ID_690018461" CREATED="1446131910860" MODIFIED="1446131925782">
-<node TEXT="undefined -&gt; &quot;undefined&quot;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_1267810986" CREATED="1446131970129" MODIFIED="1446132427726"/>
-<node TEXT="Null -&gt; &quot;object&quot;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_96396810" CREATED="1446131999035" MODIFIED="1446132427725"/>
-<node TEXT="Boolean - &gt; &quot;boolean&quot;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_1322926215" CREATED="1446132024700" MODIFIED="1446132427724"/>
-<node TEXT="Number -&gt; &quot;number&quot;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_351718214" CREATED="1446132041566" MODIFIED="1446132427722"/>
-<node TEXT="String -&gt; &quot;string&quot;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_1208321690" CREATED="1446132060628" MODIFIED="1446132427721"/>
-<node TEXT="default Object without [[call]] -&gt; &quot;object&quot;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_1801168565" CREATED="1446132078032" MODIFIED="1446132427720"/>
-<node TEXT="Object with call -&gt; &quot;function&quot;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_197714674" CREATED="1446132127492" MODIFIED="1446132427719"/>
-<node TEXT="create Object without call - &gt; never all except &quot;object&quot;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_1222409248" CREATED="1446132197145" MODIFIED="1446132427712"/>
+<node TEXT="undefined -&gt; &quot;undefined&quot;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1267810986" CREATED="1446131970129" MODIFIED="1464781419520"/>
+<node TEXT="Null -&gt; &quot;object&quot;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_96396810" CREATED="1446131999035" MODIFIED="1464781419522"/>
+<node TEXT="Boolean - &gt; &quot;boolean&quot;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1322926215" CREATED="1446132024700" MODIFIED="1464781419523"/>
+<node TEXT="Number -&gt; &quot;number&quot;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_351718214" CREATED="1446132041566" MODIFIED="1464781419523"/>
+<node TEXT="String -&gt; &quot;string&quot;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1208321690" CREATED="1446132060628" MODIFIED="1464781419524"/>
+<node TEXT="default Object without [[call]] -&gt; &quot;object&quot;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1801168565" CREATED="1446132078032" MODIFIED="1464781419524"/>
+<node TEXT="Object with call -&gt; &quot;function&quot;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_197714674" CREATED="1446132127492" MODIFIED="1464781419525"/>
+<node TEXT="create Object without call - &gt; never all except &quot;object&quot;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1222409248" CREATED="1446132197145" MODIFIED="1464781419525"/>
 </node>
 <node TEXT="&gt; var a = &apos;abc&apos;; typeof a&#xa;&apos;string&apos;&#xa;&gt; var b = function(){}; typeof b&#xa;&apos;function&apos;" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1044103042" CREATED="1446132656995" MODIFIED="1446132681025"/>
 </node>
@@ -863,11 +880,25 @@
 </node>
 <node TEXT="if...else" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1820008175" CREATED="1400683185259" MODIFIED="1406543675866"/>
 <node TEXT="switch" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1590140148" CREATED="1406543046276" MODIFIED="1406543675007"/>
+<node TEXT="tru... catch...fianlly" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_960871365" CREATED="1464778473966" MODIFIED="1464778840589">
+<node TEXT="&#x43e;&#x431;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43a;&#x430; &#x441;&#x435;&#x43c;&#x430;&#x43d;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x445; &#x43e;&#x448;&#x438;&#x431;&#x43e;&#x43a;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_410615820" CREATED="1464778487017" MODIFIED="1464778862122"/>
+<node TEXT="" ID="ID_1263777982" CREATED="1464778869516" MODIFIED="1464778869516">
+<node TEXT="try - &#x432;&#x44b;&#x43f;&#x43e;&#x43b;&#x43d;&#x435;&#x43d;&#x438;&#x435; &#x43a;&#x43e;&#x434;&#x430;." STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_722855667" CREATED="1464778871914" MODIFIED="1464779806053"/>
+<node TEXT="catch - &#x435;&#x441;&#x43b;&#x438; &#x432; try &#x431;&#x44b;&#x43b;&#x430; &#x43e;&#x448;&#x438;&#x431;&#x43a;&#x430;, &#x442;&#x43e; &#x432;&#x44b;&#x43f;&#x43e;&#x43b;&#x43d;&#x44f;&#x435;&#x442;&#x441;&#x44f; &#x44d;&#x442;&#x43e;&#x442; &#x431;&#x43b;&#x43e;&#x43a;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1308297285" CREATED="1464779705344" MODIFIED="1464779805707"/>
+<node TEXT="finally - &#x431;&#x43b;&#x43e;&#x43a;, &#x43a;&#x43e;&#x442;&#x43e;&#x440;&#x44b;&#x439; &#x432;&#x44b;&#x43f;&#x43e;&#x43b;&#x43d;&#x44f;&#x435;&#x442;&#x441;&#x44f; &#x432; &#x43b;&#x44e;&#x431;&#x43e;&#x43c; &#x441;&#x43b;&#x443;&#x447;&#x430;&#x435;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1452384135" CREATED="1464779760174" MODIFIED="1464779804867"/>
+</node>
+<node TEXT="        try {&#xa;            a = b + c;&#xa;        }&#xa;        catch(ex) {&#xa;            console.log(ex);&#xa;        }&#xa;        finally {&#xa;            console.log(&quot;&#x410;&#x433;&#x430; &#x43e;&#x448;&#x438;&#x431;&#x43a;&#x430;!&quot;);&#xa;        }   &#xa;&#xa;&gt;&gt; ReferenceError: b is not defined(&#x2026;)&#xa;&gt;&gt; index.html:18 &#x410;&#x433;&#x430; &#x43e;&#x448;&#x438;&#x431;&#x43a;&#x430;!" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1428538791" CREATED="1464780579643" MODIFIED="1464780719260"/>
+</node>
+<node TEXT="throw ..." STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1079670105" CREATED="1464779853510" MODIFIED="1464781358419">
+<node TEXT="&#x441;&#x43e;&#x437;&#x434;&#x430;&#x43d;&#x438;&#x435; &#x43f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x435;&#x43b;&#x44c;&#x441;&#x43a;&#x43e;&#x433;&#x43e; &#x438;&#x441;&#x43a;&#x43b;&#x44e;&#x447;&#x435;&#x43d;&#x438;&#x44f;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1890921884" CREATED="1464780792314" MODIFIED="1464780940492"/>
+<node TEXT="        try {&#xa;       &#xa;            throw new Error(&quot;My error!&quot;);&#xa;        } catch (ex) {&#xa;           &#xa;            console.log(ex);&#xa;        }&#xa;&#xa;&gt;&gt; Error: My error!(&#x2026;)" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1668435769" CREATED="1464780941680" MODIFIED="1464781348324"/>
 </node>
 </node>
 </node>
-<node TEXT="browsers" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_720315903" CREATED="1405327271396" MODIFIED="1461945743127">
+</node>
+<node TEXT="browsers" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_720315903" CREATED="1405327271396" MODIFIED="1471424652796">
 <edge COLOR="#7c007c"/>
+<font SIZE="16"/>
 <node TEXT="DOM" ID="ID_567094656" CREATED="1394551203568" MODIFIED="1436443939558">
 <font SIZE="10"/>
 <node TEXT="&#x43e;&#x431;&#x44a;&#x43a;&#x442;&#x43d;&#x430;&#x44f; &#x43c;&#x43e;&#x434;&#x435;&#x43b;&#x44c; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x430; (Document object model) - &#x441;&#x432;&#x43e;&#x439;&#x441;&#x442;&#x432;&#x430; &#x438; &#x43c;&#x435;&#x442;&#x43e;&#x434;&#x44b; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x430; &#x434;&#x43b;&#x44f; &#x43c;&#x443;&#x43d;&#x438;&#x43f;&#x443;&#x43b;&#x44f;&#x446;&#x438;&#x439; &#x43d;&#x430;&#x434; &#x435;&#x433;&#x43e; &#x441;&#x43e;&#x434;&#x435;&#x440;&#x436;&#x438;&#x43c;&#x44b;&#x43c;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_549774228" CREATED="1405333269743" MODIFIED="1460484337177">
@@ -879,7 +910,7 @@
 <node TEXT="document.write(&quot;hi!&quot;);" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_998685636" CREATED="1405335564779" MODIFIED="1405335602366"/>
 <node TEXT="&#x432;&#x44b;&#x432;&#x43e;&#x434; &#x442;&#x435;&#x43a;&#x441;&#x442;&#x430; &#x432; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1659961572" CREATED="1405335462306" MODIFIED="1406538140150"/>
 </node>
-<node TEXT="methods" ID="ID_1264807072" CREATED="1462636450020" MODIFIED="1462636464477">
+<node TEXT="methods" ID="ID_1264807072" CREATED="1462636450020" MODIFIED="1467963512431">
 <icon BUILTIN="pencil"/>
 <node TEXT="createAttribute()" ID="ID_1021622764" CREATED="1462636465688" MODIFIED="1462636480188">
 <node TEXT="&#x441;&#x43e;&#x437;&#x434;&#x430;&#x435;&#x442; &#x430;&#x442;&#x440;&#x438;&#x431;&#x443;&#x442;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1061660427" CREATED="1462636481450" MODIFIED="1462636491434"/>
@@ -917,7 +948,7 @@
 <node TEXT="&#x43c;&#x435;&#x442;&#x43e;&#x434; &#x434;&#x43b;&#x44f; &#x438;&#x442;&#x435;&#x440;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x43e;&#x432; DOM" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1865029003" CREATED="1462639367640" MODIFIED="1462639480921"/>
 <node TEXT="document.createNodeIterator()" ID="ID_1260422706" CREATED="1462639483931" MODIFIED="1462640032164"/>
 </node>
-<node TEXT="" ID="ID_1503840352" CREATED="1462640094134" MODIFIED="1462640094134"/>
+<node TEXT="" ID="ID_1503840352" CREATED="1462640094134" MODIFIED="1467963512430"/>
 </node>
 <node TEXT="attributes" ID="ID_1280263900" CREATED="1462027720628" MODIFIED="1462636456330">
 <node TEXT="activeElement" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1833167630" CREATED="1462027731016" MODIFIED="1462291240853">
@@ -1128,6 +1159,8 @@
 </node>
 <node TEXT="document.createEvent()" ID="ID_513510679" CREATED="1462788614471" MODIFIED="1462788807296"/>
 <node TEXT="document.createEventObject()" ID="ID_617091053" CREATED="1462788807896" MODIFIED="1462788829116"/>
+<node TEXT="event.preventDefault()" ID="ID_1573265756" CREATED="1464792379985" MODIFIED="1464792399771"/>
+<node TEXT="event.stopImmdiatePripagation()" ID="ID_1110867920" CREATED="1464793049284" MODIFIED="1464793094314"/>
 </node>
 <node TEXT="BOM" LOCALIZED_STYLE_REF="default" ID="ID_106262692" CREATED="1394551218653" MODIFIED="1461682502244" HGAP="26" VSHIFT="5">
 <font SIZE="10"/>
@@ -1397,23 +1430,145 @@
 </node>
 <node TEXT="ecmascript-262 (5.1)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_17994109" CREATED="1439983606869" MODIFIED="1439983660842" LINK="http://es5.github.io/"/>
 </node>
-<node TEXT="libs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_969444669" CREATED="1394451370872" MODIFIED="1439980517606">
+<node TEXT="libs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_969444669" CREATED="1394451370872" MODIFIED="1471424654490">
 <edge COLOR="#999900"/>
+<font SIZE="16"/>
 <node TEXT="JQuery" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_348850814" CREATED="1394455049409" MODIFIED="1446129730732">
-<node TEXT="search" ID="ID_707964598" CREATED="1427898909282" MODIFIED="1436443939628">
-<font SIZE="10"/>
-</node>
+<node TEXT="$ &#x438; jQuery - &#x441;&#x438;&#x43d;&#x43e;&#x43d;&#x438;&#x43c;&#x44b;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1594933893" CREATED="1464787268648" MODIFIED="1464787316251"/>
 <node TEXT="&#x441;&#x43e;&#x431;&#x44b;&#x442;&#x438;&#x44f;" ID="ID_1111391539" CREATED="1427898923020" MODIFIED="1464246435558">
 <font SIZE="10"/>
-<node TEXT=".on" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_110434979" CREATED="1464246436403" MODIFIED="1464246475008">
-<node TEXT="(&apos;click&apos;, callback)" ID="ID_440781737" CREATED="1464246442266" MODIFIED="1464246471386"/>
+<node TEXT="" ID="ID_943131974" CREATED="1464851220000" MODIFIED="1464851220000">
+<node TEXT=".on()" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_110434979" CREATED="1464246436403" MODIFIED="1464865466694">
+<node TEXT="" ID="ID_287709937" CREATED="1464865146299" MODIFIED="1464865146299">
+<node TEXT="on.(&quot;click[.namespace]&quot;, callback)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_440781737" CREATED="1464246442266" MODIFIED="1464865543631"/>
+<node TEXT="&#x432;&#x435;&#x448;&#x430;&#x435;&#x442; &#x43e;&#x431;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x447;&#x438;&#x43a; &#x43d;&#x430; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_357400064" CREATED="1464851578057" MODIFIED="1464865145114"/>
+</node>
+<node TEXT="&#x441;&#x43e;&#x431;&#x44b;&#x442;&#x438;&#x435; &quot;&#x43f;&#x43e;&#x433;&#x440;&#x443;&#x436;&#x430;&#x435;&#x442;&#x441;&#x44f;&quot; &#x438; &quot;&#x432;&#x441;&#x43f;&#x43b;&#x44b;&#x432;&#x430;&#x435;&#x442;&quot;" LOCALIZED_STYLE_REF="styles.important" ID="ID_1317952706" CREATED="1464851594138" MODIFIED="1464865068532">
+<font SIZE="9"/>
+<node TEXT="&#x43f;&#x43e;&#x44d;&#x442;&#x43e;&#x43c;&#x443; &#x43e;&#x43d;&#x43e; &#x43c;&#x43e;&#x436;&#x435;&#x442; &#x43e;&#x431;&#x440;&#x430;&#x431;&#x430;&#x442;&#x44b;&#x432;&#x430;&#x442;&#x44c;&#x441;&#x44f; &#x43f;&#x43e; &#x434;&#x432;&#x430; &#x440;&#x430;&#x437;&#x430;" ID="ID_598172138" CREATED="1464851693579" MODIFIED="1464851712265"/>
+<node TEXT="return false - &#x434;&#x43e;&#x43b;&#x436;&#x43d;&#x43e; &#x440;&#x435;&#x448;&#x438;&#x442;&#x44c; &#x44d;&#x442;&#x443; &#x437;&#x430;&#x434;&#x430;&#x447;&#x443;" ID="ID_1374611755" CREATED="1464865025477" MODIFIED="1464865045615"/>
+</node>
+</node>
+<node TEXT=".off()" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1627054386" CREATED="1464864276194" MODIFIED="1464865374830">
+<node TEXT="" ID="ID_1991219614" CREATED="1464865388192" MODIFIED="1464865388192">
+<node TEXT="&#x43e;&#x442;&#x43a;&#x43b;&#x44e;&#x447;&#x430;&#x435;&#x442; &#x434;&#x430;&#x43d;&#x43d;&#x43e;&#x435; &#x441;&#x43e;&#x431;&#x44b;&#x442;&#x438;&#x435;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_22098763" CREATED="1464864978017" MODIFIED="1464865457857"/>
+<node TEXT=".off(&quot;event.[namespace]&quot;)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1407426279" CREATED="1464865395079" MODIFIED="1464865458362"/>
+</node>
+<node TEXT="" ID="ID_34753302" CREATED="1464865441644" MODIFIED="1464865441644"/>
+</node>
+<node TEXT="triggerHundler()" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1211501780" CREATED="1464874511654" MODIFIED="1464874537782">
+<node TEXT="&#x432;&#x44b;&#x437;&#x44b;&#x432;&#x430;&#x435;&#x442; &#x43e;&#x431;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x447;&#x438;&#x43a; &#x441;&#x43e;&#x431;&#x44b;&#x442;&#x438;&#x44f;&#xa;&#x431;&#x435;&#x437; &#x438;&#x43d;&#x438;&#x446;&#x438;&#x438;&#x43b;&#x438;&#x437;&#x430;&#x446;&#x438;&#x438; &#x441;&#x430;&#x43c;&#x43e;&#x433;&#x43e; &#x441;&#x43e;&#x431;&#x44b;&#x442;&#x438;&#x44f;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_824783541" CREATED="1464874540171" MODIFIED="1464874590304"/>
+<node TEXT="button.triggerHandler(&quot;click&quot;);" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1947476353" CREATED="1464874591263" MODIFIED="1464874899746"/>
+</node>
+<node TEXT=".trigger()" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_973950689" CREATED="1464849767481" MODIFIED="1464851568361">
+<node TEXT="&#x438;&#x43d;&#x438;&#x446;&#x438;&#x438;&#x43b;&#x438;&#x437;&#x438;&#x440;&#x443;&#x435;&#x442; &#x441;&#x43e;&#x431;&#x44b;&#x442;&#x438;&#x435;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1475344322" CREATED="1464865477540" MODIFIED="1464865509803"/>
+<node TEXT=".trigger()" ID="ID_1484689750" CREATED="1464865510949" MODIFIED="1464865522941"/>
+</node>
+<node TEXT=".live()" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1995356294" CREATED="1464868105833" MODIFIED="1464868129502">
+<node TEXT="" ID="ID_1490547180" CREATED="1464868132352" MODIFIED="1464868132352">
+<node TEXT="&#x43c;&#x43e;&#x436;&#x435;&#x442; &#x443;&#x441;&#x442;&#x43e;&#x43d;&#x430;&#x432;&#x43b;&#x438;&#x432;&#x430;&#x442;&#x44c; &#x43e;&#x431;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x447;&#x438;&#x43a; &#x43d;&#x430; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;, &#x43a;&#x43e;&#x442;&#x43e;&#x440;&#x44b;&#x435; &#x435;&#x449;&#x435; &#x43d;&#x435; &#x431;&#x44b;&#x43b;&#xa;&#x43f;&#x43e;&#x441;&#x442;&#x43e;&#x440;&#x435;&#x442; &#x432; dom" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1287632730" CREATED="1464868144288" MODIFIED="1464868274327"/>
+</node>
+<node TEXT="" ID="ID_310976516" CREATED="1464868277890" MODIFIED="1464868277890"/>
+</node>
+<node TEXT=".one()" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1726734926" CREATED="1464868113471" MODIFIED="1464868130710"/>
+</node>
+<node TEXT="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a; &#x434;&#x43e;&#x441;&#x442;&#x443;&#x43f;&#x43d;&#x44b;&#x445; &#x441;&#x43e;&#x431;&#x44b;&#x442;&#x438;&#x439;" ID="ID_1388620727" CREATED="1464791253502" MODIFIED="1464792228242">
+<icon BUILTIN="list"/>
+<node TEXT="click" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_674387870" CREATED="1464791260456" MODIFIED="1464792204155"/>
+<node TEXT="change" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_243003476" CREATED="1464791278876" MODIFIED="1464792204155">
+<node TEXT="&#x438;&#x437;&#x43c;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x435; &#x441;&#x43e;&#x441;&#x442;&#x43e;&#x44f;&#x43d;&#x438;&#x44f; (&#x437;&#x43d;&#x430;&#x447;&#x435;&#x43d;&#x438;&#x435; &#x43f;&#x43e;&#x43b;&#x443;&#x447;&#x435;&#x43d;&#x43d;&#x43e;&#x435; &#x43f;&#x440;&#x438; &#x43f;&#x43e;&#x442;&#x435;&#x440;&#x435; &#x444;&#x43e;&#x43a;&#x443;&#x441;&#x430; &#x43e;&#x442;&#x43b;&#x438;&#x447;&#x430;&#x435;&#x442;&#x441;&#x44f; &#x43e;&#x442; &#x441;&#x43e;&#x441;&#x442;&#x43e;&#x44f;&#x43d;&#x438;&#x44f;, &#x43a;&#x43e;&#x442;&#x43e;&#x440;&#x43e;&#x435; &#x431;&#x44b;&#x43b;&#x43e; &#x43f;&#x440;&#x438; &#x43f;&#x43e;&#x43b;&#x443;&#x447;&#x435;&#x43d;&#x438;&#x438; &#x444;&#x43e;&#x43a;&#x443;&#x441;&#x430;)" ID="ID_1185630138" CREATED="1464791326862" MODIFIED="1464791452129"/>
+</node>
+<node TEXT="dbcick" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1168114948" CREATED="1464791454418" MODIFIED="1464792204154">
+<node TEXT="&#x434;&#x432;&#x43e;&#x439;&#x43d;&#x43e;&#x439; &#x449;&#x435;&#x43b;&#x447;&#x43e;&#x43a;" ID="ID_406959765" CREATED="1464791465710" MODIFIED="1464791476092"/>
+</node>
+<node TEXT="resize" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1057868680" CREATED="1464791487560" MODIFIED="1464792204153"/>
+<node TEXT="scroll" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_236859876" CREATED="1464791507099" MODIFIED="1464792204152"/>
+<node TEXT="select" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1224909862" CREATED="1464791523832" MODIFIED="1464792204151">
+<node TEXT="&#x432;&#x44b;&#x431;&#x43e;&#x440; &#x442;&#x435;&#x43a;&#x441;&#x442;&#x430; (&#x442;&#x43e;&#x43b;&#x44c;&#x43a;&#x43e; &#x434;&#x43b;&#x44f; input[type=&quot;text&quot;] &#x438; textarea)" ID="ID_70331208" CREATED="1464791532288" MODIFIED="1464791569034"/>
+</node>
+<node TEXT="submit" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_810667533" CREATED="1464791571216" MODIFIED="1464792204150"/>
+<node TEXT="focus" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_836333686" CREATED="1464791590768" MODIFIED="1464792204149"/>
+<node TEXT="blur" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_523122245" CREATED="1464791595612" MODIFIED="1464792204149">
+<node TEXT="&#x444;&#x43e;&#x43a;&#x443;&#x441; &#x443;&#x448;&#x435;&#x43b; &#x441; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430; (input[type=&quot;text&quot;])" ID="ID_1387258941" CREATED="1464791629725" MODIFIED="1464791672515"/>
+</node>
+<node TEXT="focusin" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1641161580" CREATED="1464791687878" MODIFIED="1464792204148">
+<node TEXT="&#x444;&#x43e;&#x43a;&#x443;&#x441; &#x43d;&#x430; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x435;, &#x434;&#x430;&#x43d;&#x43d;&#x43e;&#x435; &#x441;&#x43e;&#x431;&#x44b;&#x442;&#x438;&#x435; &#x441;&#x440;&#x430;&#x431;&#x430;&#x442;&#x44b;&#x432;&#x430;&#x435;&#x442; &#x43d;&#x430; &#x43f;&#x440;&#x435;&#x434;&#x43a;&#x435; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430;" ID="ID_240159930" CREATED="1464791699293" MODIFIED="1464791722641"/>
+</node>
+<node TEXT="focusout" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1610143695" CREATED="1464791723979" MODIFIED="1464792204147">
+<node TEXT="&#x43f;&#x43e;&#x442;&#x435;&#x440;&#x44f; &#x444;&#x43e;&#x43a;&#x443;&#x441;&#x430;, &#x434;&#x430;&#x43d;&#x43d;&#x43e;&#x435; &#x441;&#x43e;&#x431;&#x44b;&#x442;&#x438;&#x435; &#x441;&#x440;&#x430;&#x431;&#x430;&#x442;&#x44b;&#x432;&#x430;&#x435;&#x442; &#x43d;&#x430; &#x43f;&#x440;&#x435;&#x434;&#x43a;&#x435; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430;" ID="ID_1044074423" CREATED="1464791734045" MODIFIED="1464791790879"/>
+</node>
+<node TEXT="keydown" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1466127703" CREATED="1464791796247" MODIFIED="1464792204147">
+<node TEXT="(keydown -&gt; keypress -&gt; keyup)" ID="ID_789201269" CREATED="1464791816377" MODIFIED="1464791888661"/>
+</node>
+<node TEXT="keypress" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_728375511" CREATED="1464791829868" MODIFIED="1464792204146">
+<node TEXT="(keydown -&gt; keypress -&gt; keyup)" ID="ID_1745484806" CREATED="1464791840798" MODIFIED="1464791895056"/>
+</node>
+<node TEXT="keyup" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1020086902" CREATED="1464791898510" MODIFIED="1464792204145">
+<node TEXT="(keydown -&gt; keypress -&gt; keyup)" ID="ID_311217049" CREATED="1464791816377" MODIFIED="1464791888661"/>
+</node>
+<node TEXT="load" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1865547926" CREATED="1464791908826" MODIFIED="1464792204144"/>
+<node TEXT="unload" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_434180965" CREATED="1464791953123" MODIFIED="1464792204144">
+<node TEXT="&#x432;&#x44b;&#x433;&#x440;&#x443;&#x437;&#x43a;&#x430; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430; (&#x43d;&#x430;&#x43f;&#x440;&#x438;&#x43c;&#x435;&#x440; window)" ID="ID_1697057614" CREATED="1464791963291" MODIFIED="1464791981751"/>
+</node>
+<node TEXT="mousedown" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_916425416" CREATED="1464791982822" MODIFIED="1464792204143"/>
+<node TEXT="mouseup" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_587458561" CREATED="1464791998291" MODIFIED="1464792204142"/>
+<node TEXT="mousemove" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_857987980" CREATED="1464792005301" MODIFIED="1464792204139"/>
+<node TEXT="mouseenter" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1571110763" CREATED="1464792014496" MODIFIED="1464792204137">
+<node TEXT="&#x43d;&#x430;&#x432;&#x435;&#x434;&#x435;&#x43d;&#x438;&#x435; &#x43a;&#x443;&#x440;&#x441;&#x43e;&#x440;&#x430; &#x43d;&#x430; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442; (&#x43d;&#x435; &#x441;&#x440;&#x430;&#x431;&#x430;&#x442;&#x44b;&#x432;&#x430;&#x435;&#x442; &#x43f;&#x440;&#x438; &#x43f;&#x435;&#x440;&#x435;&#x445;&#x43e;&#x434;&#x435; &#x444;&#x43e;&#x43a;&#x443;&#x441;&#x430; &#x43d;&#x430; &#x434;&#x43e;&#x447;&#x435;&#x440;&#x43d;&#x438;&#x435; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x44b;)" ID="ID_1835141171" CREATED="1464792034701" MODIFIED="1464792085669"/>
+</node>
+<node TEXT="mouseleave" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_132891651" CREATED="1464792087673" MODIFIED="1464792204135">
+<node TEXT="&#x432;&#x44b;&#x432;&#x43e;&#x434; &#x43a;&#x443;&#x440;&#x441;&#x43e;&#x440;&#x430; &#x438;&#x437; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430; (&#x43d;&#x435; &#x441;&#x440;&#x430;&#x431;&#x430;&#x442;&#x44b;&#x432;&#x430;&#x435;&#x442; &#x43f;&#x440;&#x438; &#x43f;&#x43e;&#x442;&#x435;&#x440;&#x435; &#x444;&#x43e;&#x43a;&#x443;&#x441;&#x430; &#x434;&#x43e;&#x447;&#x435;&#x440;&#x43d;&#x438;&#x43c;&#x438; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430;&#x43c;&#x438;)" ID="ID_1917475938" CREATED="1464792108277" MODIFIED="1464792145479"/>
+</node>
+<node TEXT="mouseover" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1459295018" CREATED="1464792169380" MODIFIED="1464792204134"/>
+<node TEXT="mouseout" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1278822819" CREATED="1464792188843" MODIFIED="1464792204130"/>
 </node>
 </node>
 <node TEXT="attribute" ID="ID_1354635428" CREATED="1427900623950" MODIFIED="1436443939630">
 <font SIZE="10"/>
 </node>
-<node TEXT="&#x43f;&#x43e;&#x438;&#x441;&#x43a;" ID="ID_32647582" CREATED="1464336580369" MODIFIED="1464336617827">
-<node TEXT="" ID="ID_1406294812" CREATED="1464336619037" MODIFIED="1464336619037"/>
+<node TEXT="search" ID="ID_32647582" CREATED="1464336580369" MODIFIED="1464789852701">
+<node TEXT="" ID="ID_230233433" CREATED="1464789782872" MODIFIED="1464789835473">
+<icon BUILTIN="list"/>
+<node TEXT="&#x43f;&#x43e; &#x441;&#x435;&#x43b;&#x435;&#x43a;&#x442;&#x43e;&#x440;&#x443;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_813662110" CREATED="1464787652215" MODIFIED="1464789639639">
+<node TEXT="&#x43f;&#x440;&#x430;&#x432;&#x438;&#x43b;&#x430; css" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1406294812" CREATED="1464336619037" MODIFIED="1464787809287"/>
+<node TEXT="                console.log($(&quot;P&quot;)); // &#x432;&#x44b;&#x431;&#x43e;&#x440; p&#xa;                console.log($(&quot;p, h&quot;)) // &#x432;&#x44b;&#x431;&#x43e;&#x440; p, h&#xa;                console.log($(&quot;div button&quot;)); // &#x432;&#x44b;&#x431;&#x43e;&#x440; button &#x432; div" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1096447084" CREATED="1464787348191" MODIFIED="1464787768199"/>
+</node>
+<node TEXT="find()" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_606598567" CREATED="1464787771668" MODIFIED="1464789639644">
+<node TEXT="&#x438;&#x449;&#x435;&#x442; &#x432; &#x432;&#x44b;&#x431;&#x43e;&#x440;&#x43a;&#x435; $()" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1179464209" CREATED="1464787779400" MODIFIED="1464787897126"/>
+<node TEXT="             console.log($(&quot;div&quot;).find(&quot;button&quot;)); // &#x43d;&#x430;&#x439;&#x434;&#x435;&#x442; button" ID="ID_1615791469" CREATED="1464787962308" MODIFIED="1464787982508"/>
+</node>
+<node TEXT="prev()" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_397773032" CREATED="1464787987349" MODIFIED="1464789639645">
+<node TEXT="&#x432;&#x44b;&#x431;&#x43e;&#x440; &#x43f;&#x440;&#x435;&#x434;&#x44b;&#x434;&#x443;&#x449;&#x435;&#x433;&#x43e; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1106275544" CREATED="1464788482368" MODIFIED="1464788502774"/>
+<node TEXT="$(&quot;h&quot;).prev()" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_970364099" CREATED="1464788503597" MODIFIED="1464788524972"/>
+</node>
+<node TEXT="next()" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1134669945" CREATED="1464788526617" MODIFIED="1464789639646">
+<node TEXT="&#x432;&#x44b;&#x431;&#x43e;&#x440; &#x441;&#x43b;&#x435;&#x434;&#x443;&#x44e;&#x449;&#x435;&#x433;&#x43e; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1864369483" CREATED="1464788532661" MODIFIED="1464788547127"/>
+<node TEXT="$(&quot;p&quot;).next()" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_303599066" CREATED="1464788547997" MODIFIED="1464788569264"/>
+</node>
+<node TEXT="children()" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1577043756" CREATED="1464788577223" MODIFIED="1464789639647">
+<node TEXT="&#x432;&#x44b;&#x431;&#x43e;&#x440; &#x432;&#x441;&#x435;&#x445; &#x434;&#x435;&#x442;&#x435;&#x439; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1481902" CREATED="1464788584847" MODIFIED="1464788638109"/>
+<node TEXT="$(&quot;div&quot;).children()" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_753978764" CREATED="1464788638920" MODIFIED="1464788658930"/>
+</node>
+<node TEXT="parent()" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_817385155" CREATED="1464788660753" MODIFIED="1464789639647">
+<node TEXT="&#x432;&#x44b;&#x431;&#x43e;&#x440; &#x440;&#x43e;&#x434;&#x438;&#x442;&#x435;&#x43b;&#x44f; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1450190451" CREATED="1464788670572" MODIFIED="1464788681761"/>
+<node TEXT="$(&quot;div&quot;).parent()" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1416188390" CREATED="1464789432920" MODIFIED="1464789488419"/>
+</node>
+<node TEXT="parents()" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1472491339" CREATED="1464789489786" MODIFIED="1464789639648">
+<node TEXT="&#x432;&#x44b;&#x431;&#x43e;&#x440; &#x432;&#x441;&#x435;&#x445; &#x43f;&#x440;&#x435;&#x434;&#x43a;&#x43e;&#x432; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_657566738" CREATED="1464789506464" MODIFIED="1464789532097"/>
+<node TEXT="                console.log($(&quot;button&quot;).parents());&#xa;                console.log($(&quot;button&quot;).parents(&quot;.somethingClass&quot;)); // &#x442;&#x430;&#x43a;&#xa;                // &#x436;&#x435; &#x43c;&#x43e;&#x436;&#x435;&#x442; &#x43f;&#x440;&#x438;&#x43d;&#x438;&#x43c;&#x430;&#x442;&#x44c;&#x441;&#x44f; &#x438; &#x441;&#x435;&#x43b;&#x435;&#x43a;&#x442;&#x43e;&#x440;" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_62897477" CREATED="1464789532948" MODIFIED="1464789572990"/>
+</node>
+<node TEXT="&#x43f;&#x43e;&#x438;&#x441;&#x43a; &#x43f;&#x43e; &#x441;&#x432;&#x43e;&#x439;&#x441;&#x442;&#x432;&#x430;&#x43c; &#x430;&#x442;&#x440;&#x438;&#x431;&#x443;&#x442;&#x43e;&#x432;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1160887546" CREATED="1464789671726" MODIFIED="1464789768218"/>
+</node>
+<node TEXT="&#x441;&#x430;&#x43c;&#x438; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x44b; &#x434;&#x43e;&#x441;&#x442;&#x443;&#x43f;&#x43d;&#x44b; &#x447;&#x435;&#x440;&#x435;&#x437; []" LOCALIZED_STYLE_REF="styles.important" ID="ID_1187125344" CREATED="1464789794009" MODIFIED="1464791192150">
+<font SIZE="8"/>
+</node>
+</node>
+<node TEXT="ready()" ID="ID_1637525413" CREATED="1464786829723" MODIFIED="1464786834013">
+<node TEXT="&#x43e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x44f;&#x435;&#x442; &#x433;&#x43e;&#x442;&#x43e;&#x432;&#x43d;&#x43e;&#x441;&#x442;&#x44c; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x43e;&#x432;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_430004189" CREATED="1464786834944" MODIFIED="1464786850124"/>
+<node TEXT="ready(document)" ID="ID_1915056530" CREATED="1464786850806" MODIFIED="1464787083812">
+<node TEXT="&#x435;&#x441;&#x442;&#x44c; &#x441;&#x438;&#x43d;&#x43e;&#x43d;&#x438;&#x43c; $(function(){.});" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1578819881" CREATED="1464787085150" MODIFIED="1464787163094"/>
+<node TEXT="            $(function(){&#xa;                console.log(&apos;I am ready!&apos;);&#xa;            });" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1483743818" CREATED="1464787164013" MODIFIED="1464787260912"/>
+</node>
 </node>
 </node>
 <node TEXT="DOJO" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1710601798" CREATED="1394455146738" MODIFIED="1446129730731"/>
@@ -1424,7 +1579,7 @@
 <icon BUILTIN="help"/>
 <font SIZE="10"/>
 <node TEXT="&#x431;&#x438;&#x431;&#x43b;&#x438;&#x43e;&#x442;&#x435;&#x43a;&#x430; &#x434;&#x43b;&#x44f; &#x440;&#x435;&#x43d;&#x434;&#x435;&#x440;&#x438;&#x43d;&#x433;&#x430; &#x438;&#x437;&#x43e;&#x431;&#x440;&#x430;&#x436;&#x435;&#x43d;&#x438;&#x439;, &#x430;&#x432;&#x442;&#x43e;&#x43c;&#x430;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438; &#x43c;&#x43e;&#x436;&#x435;&#x442; &#x432;&#x44b;&#x431;&#x438;&#x440;&#x430;&#x442;&#x44c; WebGl &#x438;&#x43b;&#x438; canvas, &#x43a;&#x440;&#x43e;&#x441;&#x441;&#x43f;&#x43b;&#x430;&#x442;&#x444;&#x43e;&#x440;&#x43c;&#x435;&#x43d;&#x43d;&#x430;&#x44f;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_886840729" CREATED="1428830926638" MODIFIED="1428831050454"/>
-<node TEXT="&#x431;&#x438;&#x431;&#x43b;&#x438;&#x43e;&#x442;&#x435;&#x43a;&#x430; &#x43e;&#x441;&#x43d;&#x43e;&#x432;&#x430;&#x43d;&#x430; &#x43d;&#x430; &#x440;&#x43e;&#x431;&#x43e;&#x442;&#x435; &#x441; &#x438;&#x437;&#x43e;&#x431;&#x440;&#x430;&#x436;&#x435;&#x43d;&#x438;&#x44f;&#x43c;&#x438; &#x438; &#x441;&#x43f;&#x440;&#x430;&#x439;&#x442;&#x430;&#x43c;&#x438;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_3218946" CREATED="1428833156072" MODIFIED="1428908686666"/>
+<node TEXT="&#x431;&#x438;&#x431;&#x43b;&#x438;&#x43e;&#x442;&#x435;&#x43a;&#x430; &#x43f;&#x440;&#x435;&#x434;&#x43d;&#x430;&#x437;&#x43d;&#x430;&#x447;&#x435;&#x43d;&#x430; &#x434;&#x43b;&#x44f; &#x440;&#x43e;&#x431;&#x43e;&#x442;&#x44b; &#x441; &#x438;&#x437;&#x43e;&#x431;&#x440;&#x430;&#x436;&#x435;&#x43d;&#x438;&#x44f;&#x43c;&#x438; &#x438; &#x441;&#x43f;&#x440;&#x430;&#x439;&#x442;&#x430;&#x43c;&#x438;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_3218946" CREATED="1428833156072" MODIFIED="1464784211749"/>
 </node>
 <node TEXT="&#x43f;&#x43e;&#x436;&#x438;&#x440;&#x430;&#x435;&#x442; &#x43d;&#x435;&#x43c;&#x430;&#x43b;&#x43e;&#x435; &#x43a;&#x43e;&#x43b;&#x438;&#x447;&#x435;&#x441;&#x442;&#x432;&#x43e; &#x440;&#x435;&#x441;&#x443;&#x440;&#x441;&#x43e;&#x432;" LOCALIZED_STYLE_REF="styles.important" ID="ID_676700482" CREATED="1439982058889" MODIFIED="1439982079948"/>
 </node>

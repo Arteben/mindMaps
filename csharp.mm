@@ -14,7 +14,7 @@
 </html>
 </richcontent>
 <hook NAME="AutomaticEdgeColor" COUNTER="8"/>
-<hook NAME="MapStyle" background="#dbfcdb" zoom="0.91">
+<hook NAME="MapStyle" background="#dbfcdb" zoom="1.612">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>

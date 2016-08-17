@@ -15,7 +15,7 @@
 </richcontent>
 <font SIZE="14"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="7"/>
-<hook NAME="MapStyle" background="#edd7c1" zoom="1.001">
+<hook NAME="MapStyle" background="#edd7c1" zoom="1.332">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -106,9 +106,10 @@
 </node>
 <node TEXT="&#x444;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x43e;&#x43d;&#x430;&#x43b; &#x441;&#x430;&#x439;&#x442;&#x430;" POSITION="right" ID="ID_1730718409" CREATED="1464165187519" MODIFIED="1464165193424">
 <edge COLOR="#7c0000"/>
-<node TEXT="&#x432;&#x435;&#x431;-&#x43a;&#x43e;&#x43c;&#x43f;&#x43e;&#x43d;&#x435;&#x43d;&#x442;&#x44b;" ID="ID_57279769" CREATED="1464165197273" MODIFIED="1464165203487">
-<node TEXT="&#x441;&#x43f;&#x438;&#x441;&#x43a;&#x438;" ID="ID_1520955358" CREATED="1464165217719" MODIFIED="1464165237104"/>
-<node TEXT="&#x431;&#x438;&#x431;&#x43b;&#x438;&#x43e;&#x442;&#x435;&#x43a;&#x438;" ID="ID_1471368720" CREATED="1464165237782" MODIFIED="1464165242486"/>
+<node TEXT="&#x432;&#x435;&#x431;-&#x43a;&#x43e;&#x43c;&#x43f;&#x43e;&#x43d;&#x435;&#x43d;&#x442;&#x44b;(spellabs)" ID="ID_57279769" CREATED="1464165197273" MODIFIED="1469622420567">
+<node TEXT="&#x441;&#x43f;&#x435;&#x446;&#x438;&#x430;&#x43b;&#x44c;&#x43d;&#x44b;&#x435;" ID="ID_1706186718" CREATED="1469622422204" MODIFIED="1469622507028">
+<node TEXT="" ID="ID_1562865632" CREATED="1469622508216" MODIFIED="1469622508216"/>
+</node>
 </node>
 <node TEXT="&#x441;&#x442;&#x440;&#x430;&#x43d;&#x438;&#x446;&#x44b; &#x432;&#x435;&#x431;-&#x447;&#x430;&#x441;&#x442;&#x435;&#x439;" ID="ID_1678335639" CREATED="1464165392207" MODIFIED="1464165404415">
 <node TEXT="&#x437;&#x43e;&#x43d;&#x44b; &#x432;&#x435;&#x431; &#x447;&#x430;&#x441;&#x442;&#x435;&#x439;" ID="ID_1174416712" CREATED="1464165692553" MODIFIED="1464165699442"/>
