@@ -1,8 +1,21 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node LOCALIZED_TEXT="new_mindmap" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1283093380553">
-<hook NAME="AutomaticEdgeColor" COUNTER="0"/>
-<hook NAME="MapStyle" background="#fff6f6" zoom="1.478">
+<node ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1471424853768"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font face="Ubuntu Condensed" size="6"><b>&#160;&#160;[&#160;&#160;&#160;SQL&#160;&#160;&#160;]</b></font>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<hook NAME="AutomaticEdgeColor" COUNTER="1"/>
+<hook NAME="MapStyle" background="#ffffcc" zoom="1.626">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -68,5 +81,13 @@
 </stylenode>
 </map_styles>
 </hook>
+<node TEXT="" POSITION="right" ID="ID_1245366415" CREATED="1471425491108" MODIFIED="1471425502841">
+<icon BUILTIN="help"/>
+<edge COLOR="#ff0000"/>
+<node TEXT="&#x43d;&#x435; &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x434;&#x443;&#x440;&#x43d;&#x44b;&#x439;" ID="ID_855827145" CREATED="1471425513121" MODIFIED="1471425526413"/>
+<node TEXT="&#x444;&#x43e;&#x440;&#x43c;&#x430;&#x43b;&#x44c;&#x43d;&#x44b;&#x439;" ID="ID_1130770678" CREATED="1471425527013" MODIFIED="1471425531019"/>
+<node TEXT="&#x438;&#x441;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435; &#x43a;&#x430;&#x440;&#x442;&#x435;&#x436;&#x435;&#x439;" ID="ID_1357171578" CREATED="1471425535663" MODIFIED="1471425551499"/>
+<node TEXT="&#x440;&#x435;&#x43b;&#x44f;&#x446;&#x438;&#x43e;&#x43d;&#x43d;&#x44b;&#x435; &#x411;&#x414;" ID="ID_922390036" CREATED="1471425552357" MODIFIED="1471425564608"/>
+</node>
 </node>
 </map>
