@@ -16,7 +16,7 @@
   </body>
 </html>
 </richcontent>
-<hook NAME="AutomaticEdgeColor" COUNTER="1"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="2"/>
 <hook NAME="MapStyle" background="#f0f2f0" zoom="1.5">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
@@ -1776,202 +1776,9 @@
 </node>
 </node>
 </node>
-<node TEXT="descrtiption" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="left" ID="ID_160568784" CREATED="1394549915195" MODIFIED="1472216288636">
-<edge COLOR="#843d3d"/>
-<node TEXT="JS &#x43d;&#x430;&#x43f;&#x438;&#x441;&#x430;&#x43d; &#x43d;&#x430; &#x43a;&#x43e;&#x43b;&#x435;&#x43d;&#x43a;&#x430;&#x445; &#x438; &#x43f;&#x43e;&#x44d;&#x442;&#x43e;&#x43c;&#x443; &#x433;&#x43e;&#x432;&#x43e;&#x440;&#x44f;&#x442;,&#xa; &#x447;&#x442;&#x43e; &#x43e;&#x43d; &#x443;&#x436;&#x430;&#x441;&#x435;&#x43d;, &#x43d;&#x43e; &#x43d;&#x430; &#x441;&#x430;&#x43c;&#x43e;&#x43c; &#x434;&#x435;&#x43b;&#x435; &#x43d;&#x435;&#x442;&#xa;(&#x435;&#x441;&#x43b;&#x438; &#x437;&#x43d;&#x430;&#x442;&#x44c; &#x43f;&#x43e;&#x434;&#x432;&#x43e;&#x434;&#x43d;&#x44b;&#x435; &#x43a;&#x430;&#x43c;&#x43d;&#x438;)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_630445423" CREATED="1400685256812" MODIFIED="1446128540340">
-<font SIZE="10"/>
-</node>
-<node TEXT="&#x438;&#x441;&#x442;&#x43e;&#x440;&#x438;&#x44f;" ID="ID_1720093413" CREATED="1400683619997" MODIFIED="1436443939577">
-<font SIZE="10"/>
-<node TEXT="&#x411;&#x440;&#x435;&#x43d;&#x434;&#x430;&#x43d; &#x410;&#x439;&#x43a;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_440043647" CREATED="1400684241904" MODIFIED="1472639738720"/>
-<node TEXT="&#x43a;&#x43e;&#x43c;&#x43f;&#x430;&#x43d;&#x438;&#x438;" ID="ID_1292905256" CREATED="1400684286769" MODIFIED="1436443939580">
-<font SIZE="10"/>
-<node TEXT="Netscape Communications Corporation" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1773465258" CREATED="1400684296443" MODIFIED="1400684349132"/>
-<node TEXT="Sun Microsystems, Inc" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1272488469" CREATED="1400684353834" MODIFIED="1400684390267"/>
-</node>
-<node TEXT="Netscape Navigator 2.0" ID="ID_626926277" CREATED="1400684456033" MODIFIED="1436443939581">
-<font SIZE="10"/>
-<node TEXT="JavaScript 1.0" ID="ID_547043748" CREATED="1400684555211" MODIFIED="1400684566320"/>
-<node TEXT="4 &#x434;&#x435;&#x43a;&#x430;&#x431;&#x440;&#x44f; 1995 &#x433;&#x43e;&#x434;" ID="ID_944390788" CREATED="1400684570786" MODIFIED="1400684600232"/>
-</node>
-</node>
-<node TEXT="&quot;&#x432; &#x434;&#x432;&#x443;&#x445; &#x441;&#x43b;&#x43e;&#x432;&#x430;&#x445;&quot;" ID="ID_1092687990" CREATED="1400684739999" MODIFIED="1436443939582">
-<font SIZE="10"/>
-<node TEXT="Lisp/Sheme(&#x43f;&#x43e;&#x447;&#x442;&#x438;) &#x441; &#x421;-&#x441;&#x438;&#x43d;&#x442;&#x430;&#x43a;&#x441;&#x438;&#x441;&#x43e;&#x43c;(&#x43f;&#x43e;&#x447;&#x442;&#x438;)" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_834399329" CREATED="1400684812165" MODIFIED="1436443939584">
-<font SIZE="10"/>
-</node>
-<node TEXT="&#x43d;&#x435;&#x441;&#x442;&#x440;&#x43e;&#x433;&#x430;&#x44f; &#x442;&#x438;&#x43f;&#x438;&#x437;&#x430;&#x446;&#x438;&#x44f;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_313409247" CREATED="1400684895945" MODIFIED="1436443939585">
-<font SIZE="10"/>
-</node>
-<node TEXT="&#x43f;&#x440;&#x43e;&#x442;&#x43e;&#x442;&#x438;&#x43f;&#x43d;&#x43e;-&#x43e;&#x440;&#x435;&#x43d;&#x442;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x43d;&#x44b;&#x439;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_598787643" CREATED="1400684909875" MODIFIED="1436443939586">
-<font SIZE="10"/>
-</node>
-<node TEXT="&#x441;&#x446;&#x435;&#x43d;&#x430;&#x440;&#x43d;&#x44b;&#x439;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_219188604" CREATED="1400685053353" MODIFIED="1436443939587">
-<font SIZE="10"/>
-</node>
-<node TEXT="&quot;&#x431;&#x440;&#x430;&#x443;&#x437;&#x435;&#x440;&#x43d;&#x44b;&#x439; &#x42f;&#x41f;&quot;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_324624008" CREATED="1400685063854" MODIFIED="1436443939588">
-<font SIZE="10"/>
-</node>
-</node>
-<node TEXT="&#x441;&#x43f;&#x435;&#x446;&#x438;&#x444;&#x438;&#x43a;&#x430;&#x446;&#x438;&#x438;" ID="ID_1661312441" CREATED="1446128567221" MODIFIED="1446128574069">
-<node TEXT="Ecma-262 edition 5" ID="ID_945344541" CREATED="1406540974611" MODIFIED="1446136933797" LINK="http://es5.javascript.ru/index.html">
-<font SIZE="10"/>
-</node>
-<node TEXT="Ecma-262 edition 6" ID="ID_1143821500" CREATED="1499785947952" MODIFIED="1499785977047"/>
-</node>
-<node TEXT="&#x432;&#x435;&#x440;&#x441;&#x438;&#x438;" ID="ID_366162096" CREATED="1406540757881" MODIFIED="1436443939593">
-<font SIZE="10"/>
-<node TEXT="JavaScript 1.7" LOCALIZED_STYLE_REF="default" ID="ID_1376024348" CREATED="1406540956298" MODIFIED="1436443939594">
-<font SIZE="10"/>
-</node>
-</node>
-</node>
-<node TEXT="uses" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="left" ID="ID_255620334" CREATED="1394451433035" MODIFIED="1472215510919">
-<edge COLOR="#cc00cc"/>
-<node TEXT="scripts browsers" LOCALIZED_STYLE_REF="default" ID="ID_1250183180" CREATED="1446128627547" MODIFIED="1460372470358">
-<node TEXT="...&#xa;&lt;script type=&quot;text/javascript&quot;&gt;&#xa;    &#x43a;&#x43e;&#x434; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;&#x430;&#xa;&lt;/script&gt;&#xa;...." LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1414609979" CREATED="1400685738600" MODIFIED="1436443939597">
-<font SIZE="10"/>
-</node>
-<node TEXT="// &#x432;&#x441;&#x442;&#x430;&#x432;&#x43a;&#x430; &#x43f;&#x440;&#x43e;&#x431;&#x435;&#x43b;&#x43e;&#x432; &#x43c;&#x435;&#x436;&#x434;&#x443; &#x442;&#x435;&#x433;&#x430;&#x43c;&#x438; - &#x43d;&#x435;&#x434;&#x43e;&#x43f;&#x443;&#x441;&#x442;&#x438;&#x43c;&#x43e;!&#xa;&lt;script type = &quot;text/javascript&quot;src = &quot;myscript.js&quot;&gt;&lt;/script&gt;" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1806229877" CREATED="1400845330191" MODIFIED="1436443939610">
-<font SIZE="10"/>
-</node>
-<node TEXT="front end" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_909126214" CREATED="1472210346515" MODIFIED="1472210365600"/>
-</node>
-<node TEXT="bookmarklet" ID="ID_1882052405" CREATED="1472580925762" MODIFIED="1472580939895"/>
-<node TEXT="browser addons" LOCALIZED_STYLE_REF="default" ID="ID_1606258010" CREATED="1446129480893" MODIFIED="1460372471894">
-<node TEXT="firefox" ID="ID_531224680" CREATED="1472211132423" MODIFIED="1472211135800"/>
-</node>
-<node TEXT="user&apos;s script" LOCALIZED_STYLE_REF="default" ID="ID_1758273265" CREATED="1446127768737" MODIFIED="1460372472318">
-<node TEXT="Greasemonkey" ID="ID_917048621" CREATED="1460739506311" MODIFIED="1472639020228" LINK="http://www.greasespot.net/">
-<node TEXT="block metadata" ID="ID_108942543" CREATED="1460826002848" MODIFIED="1472639054424">
-<node TEXT="" ID="ID_315524882" CREATED="1472636956817" MODIFIED="1472636966931">
-<icon BUILTIN="list"/>
-<node TEXT="@name" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1580863110" CREATED="1472581921188" MODIFIED="1472638682515">
-<node TEXT="&#x43d;&#x430;&#x437;&#x432;&#x430;&#x43d;&#x438;&#x435; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;&#x430;, &#x435;&#x441;&#x43b;&#x438; &#x44d;&#x442;&#x43e; &#x43d;&#x430;&#x437;&#x432;&#x430;&#x43d;&#x438;&#x435;&#xa;&#x43e;&#x442;&#x441;&#x442;&#x443;&#x442;&#x441;&#x442;&#x432;&#x443;&#x435;&#x442;, &#x442;&#x43e; &#x43d;&#x430;&#x437;&#x432;&#x430;&#x442;&#x44c;&#x441;&#x44f; &#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x439; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;&#xa;&#x431;&#x443;&#x434;&#x435;&#x442; &#x442;&#x430;&#x43a; &#x436;&#x435;, &#x43a;&#x430;&#x43a; &#x438; &#x444;&#x430;&#x439;&#x43b;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_797190609" CREATED="1472636863266" MODIFIED="1472637033094"/>
-<node TEXT="...&#xa;@name = My_script&#xa;..." LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_514496266" CREATED="1472636917085" MODIFIED="1472637030904"/>
-</node>
-<node TEXT="@namespace" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1994789340" CREATED="1472637417611" MODIFIED="1472638683354">
-<node TEXT="&#x43f;&#x440;&#x43e;&#x441;&#x442;&#x430;&#x440;&#x43d;&#x441;&#x442;&#x432;&#x43e; &#x438;&#x43c;&#x435;&#x43d;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_174662859" CREATED="1472637427060" MODIFIED="1472637436944"/>
-<node TEXT="...&#xa;@namespace = arteben&#xa;..." LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1401989535" CREATED="1472637439985" MODIFIED="1472637468767"/>
-</node>
-<node TEXT="@author" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_225864542" CREATED="1472637116179" MODIFIED="1472638683757"/>
-<node TEXT="@license" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1056449204" CREATED="1472637147060" MODIFIED="1472638684198"/>
-<node TEXT="@version" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1971562063" CREATED="1472637172074" MODIFIED="1472638684598">
-<node TEXT="&#x432;&#x435;&#x440;&#x441;&#x438;&#x44f; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_951446099" CREATED="1472637334659" MODIFIED="1472637960823"/>
-<node TEXT="&#x43e;&#x442;&#x43e;&#x431;&#x440;&#x430;&#x436;&#x430;&#x435;&#x442;&#x441;&#x44f; &#x432; &#x438;&#x43d;&#x442;&#x435;&#x440;&#x444;&#x435;&#x439;&#x441;&#x435;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_415007000" CREATED="1472637345931" MODIFIED="1472637961522"/>
-<node TEXT="&#x430;&#x432;&#x442;&#x43e;&#x43e;&#x431;&#x43d;&#x43e;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_810273" CREATED="1472637402260" MODIFIED="1472637961972"/>
-</node>
-<node TEXT="@include" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_91072092" CREATED="1472637969495" MODIFIED="1472638684989">
-<node TEXT="" ID="ID_1996266867" CREATED="1472638403965" MODIFIED="1472638403965">
-<node TEXT="url, &#x433;&#x434;&#x435; &#x432;&#x43a;&#x43b;&#x44e;&#x447;&#x430;&#x435;&#x442;&#x441;&#x44f; &#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x439; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1483020418" CREATED="1472637981099" MODIFIED="1472638021838"/>
-<node TEXT="* &#x43c;&#x43e;&#x436;&#x435;&#x442; &#x438;&#x441;&#x43f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x44c;&#x441;&#x44f; - &#x434;&#x43b;&#x44f; &#x432;&#x441;&#x435;&#x445;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_853055312" CREATED="1472638005469" MODIFIED="1472638021365"/>
-<node TEXT="&#x43f;&#x440;&#x438; &#x43e;&#x442;&#x441;&#x443;&#x442;&#x441;&#x432;&#x438;&#x438; &#x44d;&#x442;&#x43e;&#x439; &#x434;&#x435;&#x440;&#x435;&#x43a;&#x442;&#x438;&#x432;&#x44b;&#xa;&#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442; &#x431;&#x443;&#x434;&#x435;&#x442; &#x437;&#x430;&#x43f;&#x443;&#x441;&#x43a;&#x430;&#x442;&#x44c;&#x441;&#x44f; &#x43d;&#x430; &#x432;&#x441;&#x435;&#x445;&#xa;&#x441;&#x442;&#x440;&#x430;&#x43d;&#x438;&#x446;&#x430;&#x445;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_743852911" CREATED="1472638589103" MODIFIED="1472638630171"/>
-<node TEXT="&#x43e;&#x434;&#x43d;&#x430; &#x441;&#x442;&#x440;&#x43e;&#x43a;&#x430; - &#x43e;&#x434;&#x43d;&#x43e; &#x43f;&#x440;&#x430;&#x432;&#x438;&#x43b;&#x43e;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_368032702" CREATED="1472638023879" MODIFIED="1472638330468"/>
-</node>
-<node TEXT="...&#xa;@include http*://habrahabr.ru/*&#xa;..." LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1590939357" CREATED="1472638332747" MODIFIED="1472638400487"/>
-</node>
-<node TEXT="@exclude" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1663700066" CREATED="1472638532872" MODIFIED="1472638685617">
-<node TEXT="&#x43f;&#x440;&#x430;&#x432;&#x438;&#x43b;&#x430; &#x442;&#x435; &#x436;&#x435;, &#x447;&#x442;&#x43e; &#x438; &#x443; @include" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_767596803" CREATED="1472638643500" MODIFIED="1472638663084"/>
-<node TEXT="&#x43e;&#x43f;&#x438;&#x441;&#x430;&#x43d;&#x438;&#x435; url &#x441;&#x442;&#x440;&#x430;&#x43d;&#x438;&#x446;&#x44b;,&#xa;&#x433;&#x434;&#x435; &#x437;&#x430;&#x43f;&#x443;&#x441;&#x43a;&#x430;&#x442;&#x44c; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442; &#x43d;&#x435; &#x43d;&#x443;&#x436;&#x43d;&#x43e;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1339468769" CREATED="1472638547914" MODIFIED="1472638584085"/>
-</node>
-</node>
-<node TEXT="&#x431;&#x43b;&#x43e;&#x43a;, &#x441;&#x43e;&#x434;&#x435;&#x440;&#x436;&#x430;&#x449;&#x438;&#x439; &#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x435; &#x43e;&#x431; &#x44d;&#x442;&#x43e;&#x43c;&#xa;&#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;&#x435;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_911626281" CREATED="1472636970662" MODIFIED="1472637026067"/>
-<node TEXT="&#x43c;&#x43e;&#x436;&#x435;&#x442; &#x43e;&#x442;&#x441;&#x443;&#x442;&#x441;&#x442;&#x432;&#x430;&#x432;&#x430;&#x442;&#x44c;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1532148756" CREATED="1472636994852" MODIFIED="1472637025445"/>
-<node TEXT="// ==UserScript==&#xa;// ...&#xa;// ==/UserScript==" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1198215480" CREATED="1472637020315" MODIFIED="1472637024129"/>
-</node>
-</node>
-<node TEXT="&#x444;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x43e;&#x43d;&#x430;&#x43b; &#x434;&#x43b;&#x44f; &#x43e;&#x434;&#x43d;&#x43e;&#x439; &#x441;&#x442;&#x440;&#x430;&#x43d;&#x438;&#x446;&#x44b;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_258287651" CREATED="1472637776346" MODIFIED="1472637873763"/>
-<node TEXT="&#x43d;&#x430;&#x43f;&#x438;&#x441;&#x430;&#x43d;&#x438;&#x435; &#x431;&#x43e;&#x442;&#x43e;&#x432;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1041178599" CREATED="1472637765968" MODIFIED="1472637875488"/>
-</node>
-<node TEXT="mozilla apps" LOCALIZED_STYLE_REF="default" ID="ID_1896549837" CREATED="1446127843369" MODIFIED="1460372472807"/>
-<node TEXT="node.js" LOCALIZED_STYLE_REF="default" ID="ID_1931467273" CREATED="1446128657154" MODIFIED="1472914014064">
-<font BOLD="true"/>
-<cloud COLOR="#ffff99" SHAPE="ARC"/>
-<node TEXT="" ID="ID_1168977591" CREATED="1472903305333" MODIFIED="1472903313999">
-<icon BUILTIN="help"/>
-<node TEXT="&#x441;&#x435;&#x440;&#x432;&#x435;&#x440; &#x434;&#x43b;&#x44f; web" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1028629405" CREATED="1472902774220" MODIFIED="1472903909241"/>
-<node TEXT="&#x43c;&#x435;&#x43d;&#x435;&#x434;&#x436;&#x435;&#x440; &#x43f;&#x430;&#x43a;&#x435;&#x442;&#x43e;&#x432; npm" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_310425294" CREATED="1472903319111" MODIFIED="1472903911270"/>
-<node TEXT="&#x43f;&#x43e;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43a;&#x430; &#x43c;&#x43d;&#x43e;&#x436;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43d;&#x43d;&#x44b;&#x445; &#x441;&#x43e;&#x435;&#x434;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x439; (~1 000)" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_828808961" CREATED="1472903338844" MODIFIED="1472903912049"/>
-<node TEXT="&#x43d;&#x435;&#x431;&#x43b;&#x43e;&#x43a;&#x438;&#x440;&#x43e;&#x443;&#x44e;&#x449;&#x438;&#x439; &#x432;&#x432;&#x43e;&#x434;-&#x432;&#x44b;&#x432;&#x43e;&#x434;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_996626899" CREATED="1472903757339" MODIFIED="1472903913650"/>
-<node TEXT="" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_135702804" CREATED="1472903803587" MODIFIED="1472903922290">
-<node TEXT="2009 &#x433;&#x43e;&#x434;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1627817112" CREATED="1472903807434" MODIFIED="1472903932667"/>
-<node TEXT="&#x420;&#x430;&#x439;&#x43d; &#x414;&#x430;&#x43b; (Ryan Dahl)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_299652288" CREATED="1472903827752" MODIFIED="1472903929393"/>
-</node>
-<node TEXT="&#x441;&#x43e;&#x431;&#x44b;&#x442;&#x438;&#x439;&#x43d;&#x43e;-&#x43e;&#x440;&#x438;&#x43d;&#x442;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x43d;&#x43e;&#x435;, &#x430;&#x441;&#x438;&#x43d;&#x445;&#x440;&#x43e;&#x43d;&#x43d;&#x43e;&#x435; &#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1308415686" CREATED="1472903480129" MODIFIED="1472903927258"/>
-</node>
-<node TEXT="moduls" ID="ID_795270663" CREATED="1472912189060" MODIFIED="1472912215780">
-<node TEXT="require()" ID="ID_1922455418" CREATED="1472912217005" MODIFIED="1472918559767">
-<node TEXT="&#x43f;&#x43e;&#x434;&#x43a;&#x43b;&#x44e;&#x447;&#x435;&#x43d;&#x438;&#x435; &#x43c;&#x43e;&#x434;&#x443;&#x43b;&#x44f;" ID="ID_1818473328" CREATED="1472918563949" MODIFIED="1472918573875"/>
-<node TEXT="require(&apos;./user&apos;);" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1288687847" CREATED="1472918578459" MODIFIED="1472918675210"/>
-</node>
-<node TEXT="module.parent" ID="ID_405735011" CREATED="1472918959342" MODIFIED="1472918966065">
-<node TEXT="&#x44d;&#x442;&#x43e; &#x43c;&#x43e;&#x434;&#x443;&#x43b;&#x44c;, &#x438;&#x43b;&#x438; &#x437;&#x430;&#x433;&#x440;&#x443;&#x437;&#x43e;&#x447;&#x43d;&#x44b;&#x439; &#x444;&#x430;&#x439;&#x43b;" ID="ID_174947001" CREATED="1472920813191" MODIFIED="1472920832380"/>
-<node TEXT="object / null" ID="ID_832630496" CREATED="1472920833089" MODIFIED="1472920850777"/>
-</node>
-<node TEXT="types" ID="ID_611879709" CREATED="1472920686781" MODIFIED="1472920693410">
-<node TEXT="" ID="ID_1675320587" CREATED="1472920730014" MODIFIED="1472920730014">
-<node TEXT="NODE" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1184981722" CREATED="1472920694384" MODIFIED="1472920738621"/>
-<node TEXT="JSON" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_62387996" CREATED="1472920698032" MODIFIED="1472920740913">
-<node TEXT="&#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x435; &#x432; &#x444;&#x43e;&#x440;&#x43c;&#x430;&#x442;&#x435; json" ID="ID_702203776" CREATED="1472920913757" MODIFIED="1472920929549"/>
-</node>
-<node TEXT="JS" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_218965995" CREATED="1472920704864" MODIFIED="1472920741597">
-<node TEXT="&#x43f;&#x43e;&#x434;&#x43a;&#x43b;&#x44e;&#x447;&#x430;&#x435;&#x43c;&#x44b;&#x439; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1509174809" CREATED="1472920752496" MODIFIED="1472920783348"/>
-<node TEXT="variables" ID="ID_383124982" CREATED="1472918599338" MODIFIED="1472918606007">
-<node TEXT="system exports" ID="ID_143507889" CREATED="1472918754494" MODIFIED="1472918768016">
-<node TEXT="module.exports = User;&#xa;///&#xa;var User =  require(&apos;./user&apos;);" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1741683459" CREATED="1472918608962" MODIFIED="1472918683844"/>
-</node>
-<node TEXT="globals" ID="ID_812691324" CREATED="1472918772991" MODIFIED="1472918777006">
-<node TEXT="global.settings = {a: 2, b: 3};&#xa;///&#xa;console.log(&quot;settings &quot; + settings.a, settings.b);" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1521510152" CREATED="1472918712279" MODIFIED="1472918738307"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="&#x43f;&#x43e;&#x438;&#x441;&#x43a; .js -&gt; .json" ID="ID_244512193" CREATED="1472920710409" MODIFIED="1472920909723"/>
-</node>
-<node TEXT="&#x43f;&#x43e;&#x438;&#x441;&#x43a; &#x444;&#x430;&#x439;&#x43b;&#x43e;&#x432;" ID="ID_1482501039" CREATED="1472920295846" MODIFIED="1472920304840">
-<node TEXT="node_modules" ID="ID_987157857" CREATED="1472920306132" MODIFIED="1472920389734">
-<cloud COLOR="#ffff99" SHAPE="ROUND_RECT"/>
-<node TEXT="module.path" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_530089456" CREATED="1472920319569" MODIFIED="1472920380835"/>
-<node TEXT="&#x438;&#x449;&#x435;&#x442; &#x438; &#x432; &#x440;&#x43e;&#x434;&#x438;&#x442;&#x435;&#x43b;&#x44c;&#x441;&#x43a;&#x438;&#x445;&#xa;&#x434;&#x435;&#x440;&#x438;&#x43a;&#x442;&#x43e;&#x440;&#x438;&#x44f;&#x445;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_245683179" CREATED="1472920348008" MODIFIED="1472920378138"/>
-</node>
-<node TEXT="&#x430;&#x431;&#x441;&#x43e;&#x43b;&#x44e;&#x442;&#x43d;&#x44b;&#x439; &#x43f;&#x443;&#x442;&#x44c;" ID="ID_649563240" CREATED="1472920402797" MODIFIED="1472920409886"/>
-</node>
-<node TEXT="module.exports = exports = this" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1103523931" CREATED="1472919246337" MODIFIED="1472919268955"/>
-</node>
-<node TEXT="npm" ID="ID_1761608158" CREATED="1500985267601" MODIFIED="1500985271603">
-<node TEXT="&#x441;&#x431;&#x43e;&#x440;&#x449;&#x438;&#x43a; &#x43f;&#x430;&#x43a;&#x435;&#x442;&#x43e;&#x432;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_233649575" CREATED="1500985272826" MODIFIED="1500985283656"/>
-<node TEXT="&#x43e;&#x441;&#x43d;&#x43e;&#x432;&#x43d;&#x44b;&#x435; &#x43a;&#x430;&#x442;&#x43e;&#x43b;&#x43e;&#x433;&#x438;" ID="ID_908987146" CREATED="1500986259142" MODIFIED="1500986269782">
-<node TEXT="build" ID="ID_108458738" CREATED="1500986270931" MODIFIED="1500986277693">
-<node TEXT="&#x43a;&#x443;&#x434;&#x430; &#x441;&#x43e;&#x431;&#x438;&#x440;&#x430;&#x435;&#x442;&#x441;&#x44f; &#x43f;&#x430;&#x43a;&#x435;&#x442;" ID="ID_739712653" CREATED="1500987004584" MODIFIED="1500987017122"/>
-</node>
-<node TEXT="src" ID="ID_394894574" CREATED="1500986278321" MODIFIED="1500986292689">
-<node TEXT="&#x43f;&#x443;&#x442;&#x44c; &#x434;&#x43b;&#x44f; &#x43f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x435;&#x43b;&#x44c;&#x441;&#x43a;&#x438;&#x445; &#x444;&#x430;&#x439;&#x43b;&#x43e;&#x432;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1074339461" CREATED="1500987022960" MODIFIED="1500987066747"/>
-</node>
-<node TEXT="www" ID="ID_277948144" CREATED="1500986293255" MODIFIED="1500986296963"/>
-</node>
-</node>
-<node TEXT="console.log" ID="ID_1224527066" CREATED="1472912222512" MODIFIED="1472912236448">
-<node TEXT="&#x432;&#x44b;&#x432;&#x43e;&#x434; &#x432; &#x442;&#x435;&#x440;&#x43c;&#x438;&#x43d;&#x430;&#x43b;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1781108708" CREATED="1472912239706" MODIFIED="1500987046296"/>
-<node TEXT="" ID="ID_3452530" CREATED="1472912248248" MODIFIED="1472912248248">
-<node TEXT="console.log(&quot;hello&quot; + who);" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_191803234" CREATED="1472912263147" MODIFIED="1472912362825"/>
-<node TEXT="$ nodejs server.js&#xa;Create user Petya&#xa;Create user Micha" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1710998792" CREATED="1472912314345" MODIFIED="1472912361672"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="sources" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="left" ID="ID_673706872" CREATED="1400681545749" MODIFIED="1472216280304">
-<edge COLOR="#009999"/>
-<node TEXT="&#x41a;&#x443;&#x440;&#x441; &#x432;&#x438;&#x434;&#x435;&#x43e;-&#x43b;&#x435;&#x43a;&#x446;&#x438;&#x439;&#xa;&quot;&#x41f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435; &#x43d;&#x430; JavaScript&quot;&#xa;&#x420;&#x430;&#x445;&#x438;&#x43c; &#x414;&#x430;&#x432;&#x43b;&#x435;&#x442;&#x43a;&#x430;&#x43b;&#x438;&#x435;&#x432;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1946240236" CREATED="1400843986227" MODIFIED="1436443939617" LINK="https://hexlet.org/course/javascript/">
-<font SIZE="10"/>
-</node>
-<node TEXT="&quot;JavaScript &#x440;&#x443;&#x43a;&#x43e;&#x432;&#x43e;&#x434;&#x441;&#x442;&#x432;&#x43e; &#x440;&#x430;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x447;&#x438;&#x43a;&#x430;&quot;&#xa;&#x414;&#x436;&#x43e;&#x43d; &#x41f;&#x43e;&#x43b;&#x43b;&#x43e;&#x43a; ISBN 978-5-459-00462-5" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_211690695" CREATED="1405327609456" MODIFIED="1436443939622">
-<font SIZE="10"/>
-</node>
-<node TEXT="ecmascript-262 (5.1)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_17994109" CREATED="1439983606869" MODIFIED="1439983660842" LINK="http://es5.github.io/"/>
-</node>
-<node TEXT="libs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_969444669" CREATED="1394451370872" MODIFIED="1487347328061">
+<node TEXT="libs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_969444669" CREATED="1394451370872" MODIFIED="1503833938757">
 <icon BUILTIN="pencil"/>
-<edge COLOR="#999900"/>
+<edge COLOR="#0000ff"/>
 <font SIZE="16"/>
 <node TEXT="JQuery" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_348850814" CREATED="1394455049409" MODIFIED="1500566955919">
 <node TEXT="$ &#x438; jQuery - &#x441;&#x438;&#x43d;&#x43e;&#x43d;&#x438;&#x43c;&#x44b;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1594933893" CREATED="1464787268648" MODIFIED="1464787316251"/>
@@ -2737,7 +2544,6 @@
 <icon BUILTIN="pencil"/>
 <node TEXT="" ID="ID_1539831514" CREATED="1500568680756" MODIFIED="1500572064698">
 <icon BUILTIN="help"/>
-<node TEXT="&#x441;&#x43b;&#x43e;&#x436;&#x43d;&#x430;&#x44f; &#x431;&#x438;&#x431;&#x43b;&#x438;&#x43e;&#x442;&#x435;&#x43a;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_982026098" CREATED="1500566976877" MODIFIED="1500568473038"/>
 <node TEXT="&#x442;&#x430;&#x43a; &#x43d;&#x430;&#x437;&#x44b;&#x432;&#x430;&#x435;&#x43c;&#x43e;&#x435; &#x440;&#x435;&#x430;&#x43a;&#x442;&#x438;&#x432;&#x43d;&#x43e;&#x435; &#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_119423583" CREATED="1500568474723" MODIFIED="1500568505486"/>
 <node TEXT="&#x432;&#x434;&#x43e;&#x445;&#x43d;&#x43e;&#x432;&#x43b;&#x435;&#x43d; &#x43f;&#x430;&#x442;&#x442;&#x435;&#x440;&#x43d;&#x43e;&#x43c;  M-V-VM" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1491190255" CREATED="1500635061694" MODIFIED="1500635379617" LINK="https://ru.wikipedia.org/wiki/Model-View-ViewModel"/>
 </node>
@@ -3305,6 +3111,119 @@
 <node TEXT="....    &#xa;        &lt;div id=&quot;app&quot;&gt;&#xa;          {{ message }}&#xa;        &lt;/div&gt;&#xa;....&#xa;        var app = new Vue({&#xa;          el: &apos;#app&apos;,&#xa;          data: {&#xa;            message: &apos;Hello Vue!&apos;&#xa;          },&#xa;        });&#xa;..." LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_446385367" CREATED="1500573486007" MODIFIED="1500573566701"/>
 </node>
 </node>
+<node TEXT="slots" ID="ID_1806500378" CREATED="1501054778656" MODIFIED="1501054781731">
+<node TEXT="" ID="ID_1782170399" CREATED="1501055871677" MODIFIED="1501055880050">
+<icon BUILTIN="idea"/>
+<node TEXT="&#x442;&#x435;&#x445;&#x43d;&#x43e;&#x43b;&#x43e;&#x433;&#x438;&#x44f; &#x440;&#x430;&#x441;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x435;&#x43d;&#x438;&#x44f; &#x43a;&#x43e;&#x43d;&#x442;&#x435;&#x43d;&#x442;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_606811027" CREATED="1501054984322" MODIFIED="1501055870233"/>
+<node TEXT="&#x43f;&#x435;&#x440;&#x435;&#x43f;&#x43b;&#x435;&#x442;&#x435;&#x43d;&#x438;&#x435; &#x43a;&#x43e;&#x43d;&#x442;&#x435;&#x43d;&#x442;&#x430; &#x438;&#x437; &#x43e;&#x434;&#x43d;&#x43e;&#x433;&#x43e; &#x432; &#x434;&#x440;&#x443;&#x433;&#x43e;&#x439;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1599052607" CREATED="1501055849783" MODIFIED="1501055869405"/>
+</node>
+<node TEXT="&#x43f;&#x43e;&#x432;&#x435;&#x434;&#x435;&#x43d;&#x438;&#x435; &#x43e;&#x442;&#x43e;&#x431;&#x440;&#x430;&#x436;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_619427732" CREATED="1501055927725" MODIFIED="1501056021589">
+<icon BUILTIN="help"/>
+<node TEXT="&#x435;&#x441;&#x43b;&#x438; &#x432; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x435; &#x43d;&#x435;&#x442; &lt;slot&gt;,&#xa;&#x442;&#x43e; &#x432;&#x435;&#x441;&#x44c; &#x440;&#x43e;&#x434;&#x438;&#x442;&#x435;&#x43b;&#x44c;&#x441;&#x43a;&#x438;&#x439; &#x43a;&#x43e;&#x43d;&#x442;&#x435;&#x43d;&#x442; &#x431;&#x443;&#x434;&#x435;&#x442; &#x43e;&#x442;&#x431;&#x440;&#x43e;&#x448;&#x435;&#x43d;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1029192810" CREATED="1501055933933" MODIFIED="1501058727193"/>
+<node TEXT="&#x435;&#x441;&#x43b;&#x438; &#x432; &lt;slot&gt; &#x435;&#x441;&#x442;&#x44c; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x44b;,&#xa;&#x438; &#x43d;&#x435; &#x43f;&#x435;&#x440;&#x435;&#x434;&#x430;&#x43d;&#x43e; &#x43a;&#x43e;&#x43d;&#x442;&#x435;&#x43d;&#x442;&#x430; &#x434;&#x43b;&#x44f; &#x434;&#x438;&#x441;&#x442;&#x440;&#x438;&#x431;&#x44a;&#x44e;&#x446;&#x438;&#x438;&#xa;&#x442;&#x43e; &#x43e;&#x442;&#x43e;&#x431;&#x440;&#x430;&#x437;&#x438;&#x442;&#x44c;&#x441;&#x44f; &#x442;&#x43e;, &#x447;&#x442;&#x43e; &#x432; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x435;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1067996370" CREATED="1501056049530" MODIFIED="1501056109769"/>
+<node TEXT="&#x435;&#x441;&#x43b;&#x438; &#x435;&#x441;&#x442;&#x44c; &#x442;&#x43e; &#x432;&#x441;&#x435; &#x441;&#x43e;&#x434;&#x435;&#x440;&#x436;&#x438;&#x43c;&#x43e;&#x435; &#x440;&#x43e;&#x434;&#x438;&#x442;&#x435;&#x43b;&#x44c;&#x441;&#x43a;&#x43e;&#x433;&#x43e; &#x43a;&#x43e;&#x43d;&#x442;&#x435;&#x43d;&#x442;&#x430;&#xa;&#x432;&#x441;&#x442;&#x430;&#x432;&#x438;&#x442;&#x441;&#x44f; &#x432;&#x43c;&#x435;&#x441;&#x442;&#x43e; &lt;slot&gt;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_166903393" CREATED="1501056036063" MODIFIED="1501058757739"/>
+</node>
+<node TEXT="" ID="ID_1703359019" CREATED="1501058545724" MODIFIED="1501058581245">
+<icon BUILTIN="info"/>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;body&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;div id='app'&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;b&gt; &#1088;&#1086;&#1076;&#1080;&#1090;&#1077;&#1083;&#1100;&#1089;&#1082;&#1080;&#1081; &#1079;&#1072;&#1075;&#1086;&#1083;&#1086;&#1074;&#1086;&#1082; &lt;/b&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;!-- &#1089;&#1102;&#1076;&#1072; &#1074;&#1089;&#1090;&#1072;&#1074;&#1080;&#1090;&#1089;&#1103; component-child --&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;!-- c &#1089;&#1086;&#1076;&#1077;&#1088;&#1078;&#1080;&#1084;&#1086;&#1084; &#1088;&#1086;&#1076;&#1080;&#1090;&#1077;&#1083;&#1103; &#1074;&#1084;&#1077;&#1089;&#1090;&#1086; &lt;slot&gt; --&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;component-child&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;p&gt; &#1089;&#1086;&#1076;&#1077;&#1088;&#1078;&#1080;&#1084;&#1086;&#1077; &#1088;&#1086;&#1076;&#1080;&#1090;&#1077;&#1083;&#1103; &lt;/p&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/component-child&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/div&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/body&gt;&#160;&#160;&#160;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;script&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Vue.component('component-child', {
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;// &#1074;&#1084;&#1077;&#1089;&#1090;&#1086; &lt;slot/&gt; &#1074;&#1089;&#1090;&#1072;&#1074;&#1080;&#1090;&#1089;&#1103; &#1089;&#1086;&#1076;&#1077;&#1088;&#1078;&#1080;&#1084;&#1086;&#1077; &#1101;&#1083;&#1077;&#1084;&#1077;&#1085;&#1090;&#1072; &lt;component-child/&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;template: '&lt;div&gt;&lt;b&gt; &#1047;&#1072;&#1075;&#1086;&#1083;&#1086;&#1074;&#1086;&#1082; child &lt;slot/&gt; &lt;/b&gt;&lt;/div&gt;',
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;});
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;new Vue ({
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;el: '#app',
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;});
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/script&gt;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="     &lt;!-- &#x441;&#x44e;&#x434;&#x430; &#x432;&#x441;&#x442;&#x430;&#x432;&#x438;&#x442;&#x441;&#x44f; component-child --&gt;&#xa;     &lt;!-- c &#x441;&#x43e;&#x434;&#x435;&#x440;&#x436;&#x438;&#x43c;&#x43e;&#x43c; &#x440;&#x43e;&#x434;&#x438;&#x442;&#x435;&#x43b;&#x44f; &#x432;&#x43c;&#x435;&#x441;&#x442;&#x43e; &lt;slot&gt; --&gt;&#xa;     &lt;component-child&gt;&#xa;&#xa;     &lt;p&gt; &#x441;&#x43e;&#x434;&#x435;&#x440;&#x436;&#x438;&#x43c;&#x43e;&#x435; &#x440;&#x43e;&#x434;&#x438;&#x442;&#x435;&#x43b;&#x44f; &lt;/p&gt;&#xa;    &#xa;     &lt;/component-child&gt;" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_315365261" CREATED="1501058583211" MODIFIED="1501058658039"/>
+<node TEXT="     // &#x432;&#x43c;&#x435;&#x441;&#x442;&#x43e; &lt;slot/&gt; &#x432;&#x441;&#x442;&#x430;&#x432;&#x438;&#x442;&#x441;&#x44f; &#x441;&#x43e;&#x434;&#x435;&#x440;&#x436;&#x438;&#x43c;&#x43e;&#x435; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430; &lt;component-child/&gt;&#xa;     template: &apos;&lt;div&gt;&lt;b&gt; &#x417;&#x430;&#x433;&#x43e;&#x43b;&#x43e;&#x432;&#x43e;&#x43a; child &lt;slot/&gt; &lt;/b&gt;&lt;/div&gt;&apos;," LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1155483021" CREATED="1501058620045" MODIFIED="1501058646957"/>
+</node>
+</node>
+<node TEXT="&#x43e;&#x431;&#x43b;&#x430;&#x441;&#x442;&#x438; &#x432;&#x438;&#x434;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x438;" ID="ID_1397013256" CREATED="1501055067264" MODIFIED="1501067547534">
+<node TEXT="&#x43e;&#x431;&#x43b;&#x430;&#x441;&#x442;&#x44c; &#x432;&#x438;&#x434;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x438; &#x440;&#x43e;&#x434;&#x438;&#x442;&#x435;&#x43b;&#x44f;&#xa;&#x442;&#x43e;&#x43b;&#x44c;&#x43a;&#x43e; &#x440;&#x43e;&#x434;&#x438;&#x442;&#x435;&#x43b;&#x44c;&#x441;&#x43a;&#x438;&#x439; &#x448;&#x430;&#x431;&#x43b;&#x43e;&#x43d;!" LOCALIZED_STYLE_REF="styles.important" ID="ID_419361737" CREATED="1501055072611" MODIFIED="1501055544780"/>
+<node TEXT="&#x43e;&#x431;&#x43b;&#x430;&#x441;&#x442;&#x44c; &#x432;&#x438;&#x434;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x438; &#x43f;&#x43e;&#x442;&#x43e;&#x43c;&#x43a;&#x430;&#xa;&#x442;&#x43e;&#x43b;&#x44c;&#x43a;&#x43e; &#x43e;&#x431;&#x43b;&#x430;&#x442;&#x44c; &#x43f;&#x43e;&#x442;&#x43e;&#x43c;&#x43a;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1840496312" CREATED="1501055125260" MODIFIED="1501055552007"/>
+</node>
 </node>
 <node TEXT="&#x43a;&#x43e;&#x43c;&#x43f;&#x43e;&#x43d;&#x435;&#x43d;&#x442;&#x44b;" ID="ID_734698004" CREATED="1500631712777" MODIFIED="1500634425146">
 <icon BUILTIN="bookmark"/>
@@ -3425,8 +3344,8 @@
 <node TEXT="&#x43b;&#x43e;&#x43a;&#x430;&#x43b;&#x44c;&#x43d;&#x44b;&#x435; &#x43a;&#x43e;&#x43c;&#x43f;&#x43e;&#x43d;&#x435;&#x43d;&#x442;&#x44b;" ID="ID_437999382" CREATED="1500815647337" MODIFIED="1500815737735">
 <node TEXT="&#x441;&#x43e;&#x437;&#x434;&#x430;&#x44e;&#x442;&#x441;&#x44f; &#x438;&#x437; &quot;&#x437;&#x430;&#x433;&#x43e;&#x442;&#x43e;&#x432;&#x43e;&#x43a;&quot; &#x432; &#x43a;&#x43e;&#x43c;&#x43f;&#x43e;&#x43d;&#x435;&#x43d;&#x442;&#x430;&#x445;&#xa;&#x43b;&#x438;&#x431;&#x43e; &#x432; &#x44d;&#x43a;&#x437;&#x435;&#x43c;&#x43f;&#x43b;&#x44f;&#x440;&#x430;&#x445; vue" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_274643074" CREATED="1500817260746" MODIFIED="1500817309373"/>
 <node TEXT="var myComponent = {options};" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1283991610" CREATED="1500817346931" MODIFIED="1500821046796">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#9999ff" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_410582398" STARTINCLINATION="452;0;" ENDINCLINATION="452;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1778841041" STARTINCLINATION="120;0;" ENDINCLINATION="120;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#9999ff" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_410582398" STARTINCLINATION="452;0;" ENDINCLINATION="452;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="" ID="ID_371930575" CREATED="1500816828615" MODIFIED="1500817256966">
 <icon BUILTIN="info"/>
@@ -3921,7 +3840,6 @@
 </node>
 </node>
 </node>
-</node>
 <node TEXT="events" ID="ID_1539097171" CREATED="1500994842517" MODIFIED="1500995595424">
 <node TEXT="events UP!" LOCALIZED_STYLE_REF="styles.important" ID="ID_240196396" CREATED="1500995387854" MODIFIED="1500995399251"/>
 <node TEXT="" ID="ID_1903323957" CREATED="1500995511619" MODIFIED="1500995580709">
@@ -4094,7 +4012,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="&lt;!-- c &#x43f;&#x440;&#x43e;&#x441;&#x43b;&#x443;&#x448;&#x438;&#x432;&#x430;&#x43d;&#x438;&#x435;&#x43c; &#x441;&#x43e;&#x431;&#x44b;&#x442;&#x438;&#x439; &quot;incrtmentTotal&quot; &#x43e;&#x442; &#x43d;&#x438;&#x445; --&gt;&#xa;     &lt;btn-component v-on:increment = &quot;incrementTotal&quot;&gt;&lt;/btn-component&gt;" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_458540406" CREATED="1500997423058" MODIFIED="1500997443072"/>
 <node TEXT="     // &#x441;&#x43e;&#x437;&#x434;&#x430;&#x43d;&#x438;&#x435; &#x441;&#x43e;&#x431;&#x44b;&#x442;&#x438;&#x44f; increment&#xa;     // &#x43a;&#x43e;&#x442;&#x43e;&#x440;&#x43e;&#x435;, &#x441;&#x43b;&#x443;&#x448;&#x430;&#x44e;&#x442; &#x440;&#x43e;&#x434;&#x438;&#x442;&#x435;&#x43b;&#x438;&#xa;     this.$emit(&apos;increment&apos;);" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1043050673" CREATED="1500997445732" MODIFIED="1500997485994">
@@ -4103,11 +4020,1463 @@
 </node>
 </node>
 </node>
+</node>
 <node TEXT="" ID="ID_1146415252" CREATED="1500813676412" MODIFIED="1500813680498">
 <icon BUILTIN="info"/>
 </node>
 </node>
+<node TEXT="&lt;transition/&gt;" ID="ID_1972613187" CREATED="1502875049075" MODIFIED="1508061282312"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#1076;&#1086;&#1073;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077; &#1072;&#1085;&#1080;&#1084;&#1072;&#1094;&#1080;&#1081;<br/>&#1080; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1086;&#1074; &#1076;&#1083;&#1103; &#1101;&#1083;&#1077;&#1084;&#1077;&#1085;&#1090;&#1086;&#1074;
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="for cases" LOCALIZED_STYLE_REF="default" ID="ID_120532405" CREATED="1502875958770" MODIFIED="1502889518837">
+<cloud COLOR="#ccffcc" SHAPE="ARC"/>
+<node TEXT="&#x41a;&#x43e;&#x433;&#x434;&#x430; &#x440;&#x43e;&#x431;&#x43e;&#x442;&#x430;&#x435;&#x442;?" ID="ID_1868059042" CREATED="1504438548063" MODIFIED="1504438590151">
+<node TEXT="v-if" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_269704007" CREATED="1502875982414" MODIFIED="1502889426578">
+<font SIZE="15"/>
+<node TEXT="&#x43f;&#x43e;&#x44f;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435;(enter)" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_1334918917" CREATED="1502889368580" MODIFIED="1502889433513"/>
+<node TEXT="&#x438;&#x441;&#x447;&#x435;&#x437;&#x43d;&#x43e;&#x432;&#x435;&#x43d;&#x438;&#x435; (leave)" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_444069792" CREATED="1502889374301" MODIFIED="1502889432829"/>
 </node>
+<node TEXT="&#x443;&#x441;&#x43b;&#x43e;&#x432;&#x43d;&#x43e;&#x435; &#x43e;&#x442;&#x43e;&#x431;&#x440;&#x430;&#x436;&#x435;&#x43d;&#x438;&#x435; (v-show)" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_886933946" CREATED="1502876005443" MODIFIED="1502889455908">
+<font SIZE="11"/>
+</node>
+<node TEXT="&#x434;&#x438;&#x43d;&#x430;&#x43c;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x435; &#x43a;&#x43e;&#x43c;&#x43f;&#x43e;&#x43d;&#x435;&#x43d;&#x442;&#x44b;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_197367865" CREATED="1502876025524" MODIFIED="1503830232501">
+<font SIZE="7"/>
+</node>
+<node TEXT="&#x43a;&#x43e;&#x440;&#x43d;&#x435;&#x432;&#x44b;&#x435; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x44b; &#x43a;&#x43e;&#x43c;&#x43f;&#x43e;&#x43d;&#x435;&#x43d;&#x442;&#x43e;&#x432;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_1845647968" CREATED="1502876045903" MODIFIED="1502889453988">
+<icon BUILTIN="smiley-oh"/>
+<font SIZE="6"/>
+</node>
+</node>
+<node TEXT="only for cases" ID="ID_498415853" CREATED="1504438563898" MODIFIED="1504438695554">
+<node TEXT="&#x43f;&#x43e;&#x44f;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435;(enter)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_629982432" CREATED="1504438602812" MODIFIED="1504438655256">
+<icon BUILTIN="down"/>
+</node>
+<node TEXT="&#x438;&#x441;&#x447;&#x435;&#x437;&#x43d;&#x43e;&#x432;&#x435;&#x43d;&#x438;&#x435;(leave)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1639662507" CREATED="1504438611251" MODIFIED="1504438654360">
+<icon BUILTIN="up"/>
+</node>
+</node>
+</node>
+<node TEXT="css-transitions" ID="ID_1851946890" CREATED="1502883022479" MODIFIED="1502889541998">
+<node TEXT="" ID="ID_761306063" CREATED="1502884594137" MODIFIED="1502884800458">
+<icon BUILTIN="list"/>
+<node TEXT="enter(open)" ID="ID_518133771" CREATED="1502883179292" MODIFIED="1502883198261">
+<icon BUILTIN="down"/>
+<node TEXT="v-enter(&#x43d;&#x430;&#x447;&#x430;&#x43b;&#x43e; &#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x438;)" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_478588679" CREATED="1502883200127" MODIFIED="1502884523833">
+<node TEXT="&#x43f;&#x440;&#x438;&#x43c;&#x435;&#x43d;&#x44f;&#x435;&#x442;&#x441;&#x44f; &#x43f;&#x435;&#x440;&#x435;&#x434; &#x43d;&#x430;&#x447;&#x430;&#x43b;&#x43e;&#x43c; &#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x438;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_581884985" CREATED="1502883666751" MODIFIED="1502883882749"/>
+<node TEXT="&#x443;&#x434;&#x430;&#x43b;&#x44f;&#x435;&#x442;&#x441;&#x44f; &#x432; &#x441;&#x43b;&#x435;&#x434;&#x443;&#x44e;&#x449;&#x435;&#x43c; &#x444;&#x440;&#x435;&#x439;&#x43c;&#x435; &#x43f;&#x43e;&#x441;&#x43b;&#x435; &#x432;&#x441;&#x442;&#x430;&#x432;&#x43a;&#x438;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_18348536" CREATED="1502883726970" MODIFIED="1502883758429"/>
+</node>
+<node TEXT="v-enter-active(&#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x44f;)" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_438717059" CREATED="1502883763257" MODIFIED="1502884523367">
+<node TEXT="&#x43e;&#x441;&#x442;&#x430;&#x435;&#x442;&#x441;&#x44f; &#x432; &#x442;&#x435;&#x447;&#x435;&#x43d;&#x438;&#x438; &#x432;&#x441;&#x435;&#x439; &#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x438;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1477187838" CREATED="1502883776683" MODIFIED="1502883881826"/>
+<node TEXT="&#x443;&#x441;&#x442;&#x430;&#x43d;&#x43e;&#x432;&#x43a;&#x430; css transition" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1746490775" CREATED="1502883837643" MODIFIED="1502883880807"/>
+</node>
+<node TEXT="v-enter-to(&#x43a;&#x43e;&#x43d;&#x435;&#x446; &#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x438;)" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_220678036" CREATED="1502883887110" MODIFIED="1502884522991">
+<node TEXT="&#x43f;&#x43e;&#x441;&#x43b;&#x435;&#x434;&#x43d;&#x44b;&#x439; &#x444;&#x440;&#x435;&#x439;&#x43c; &#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x438;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_841596332" CREATED="1502883936668" MODIFIED="1502884325151"/>
+<node TEXT="&#x443;&#x434;&#x430;&#x43b;&#x44f;&#x435;&#x442;&#x441;&#x44f; &#x43f;&#x43e;&#x441;&#x43b;&#x435; &#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x435;&#x43d;&#x438;&#x44f; &#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x438;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_478151301" CREATED="1502884085072" MODIFIED="1502884325987"/>
+</node>
+</node>
+<node TEXT="leave(close)" ID="ID_1960265673" CREATED="1502884090677" MODIFIED="1502884133484">
+<icon BUILTIN="up"/>
+<node TEXT="v-leave(&#x43d;&#x430;&#x447;&#x430;&#x43b;&#x43e;)" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_1373404641" CREATED="1502884114117" MODIFIED="1502884542485">
+<node TEXT="&#x43d;&#x430;&#x447;&#x430;&#x43b;&#x43e; &#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x438;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_800175570" CREATED="1502884339065" MODIFIED="1502884371885"/>
+<node TEXT="&#x443;&#x434;&#x430;&#x43b;&#x44f;&#x435;&#x442;&#x441;&#x44f; &#x43d;&#x430; &#x441;&#x43b;&#x435;&#x434;&#x443;&#x44e;&#x449;&#x438;&#x439; &#x444;&#x440;&#x435;&#x439;&#x43c; &#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x438;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_355620952" CREATED="1502884354101" MODIFIED="1502884372528"/>
+</node>
+<node TEXT="v-leave-active(&#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x44f;)" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_1936574475" CREATED="1502884374804" MODIFIED="1502884548102">
+<node TEXT="&#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x44f; &#x430;&#x43a;&#x442;&#x438;&#x432;&#x43d;&#x430;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1391919225" CREATED="1502884398686" MODIFIED="1502884516710"/>
+<node TEXT="&#x443;&#x441;&#x442;&#x430;&#x43d;&#x43e;&#x432;&#x43a;&#x430; css transition" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1978143871" CREATED="1502884425850" MODIFIED="1502884516222"/>
+</node>
+<node TEXT="v-leave-to(&#x43a;&#x43e;&#x43d;&#x435;&#x446;)" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_1442804048" CREATED="1502884441778" MODIFIED="1502884552890">
+<node TEXT="&#x43f;&#x43e;&#x441;&#x43b;&#x435;&#x434;&#x43d;&#x438;&#x439; &#x444;&#x440;&#x435;&#x439;&#x43c; &#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x438;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_497805468" CREATED="1502884455281" MODIFIED="1502884515857"/>
+<node TEXT="&#x443;&#x434;&#x430;&#x43b;&#x44f;&#x435;&#x442;&#x441;&#x44f; &#x43f;&#x43e;&#x441;&#x43b;&#x435; &#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x438;&#x43d;&#x438;&#x44f;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_319266960" CREATED="1502884483571" MODIFIED="1502884514838"/>
+</node>
+</node>
+</node>
+<node TEXT="" ID="ID_1562428751" CREATED="1502894792053" MODIFIED="1502894792053">
+<node TEXT="css transition" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_366475922" CREATED="1502894700514" MODIFIED="1502894732026"/>
+<node TEXT="type=&quot;transition&quot;" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_598271180" CREATED="1502894767741" MODIFIED="1502894785767"/>
+</node>
+<node TEXT="&#x43f;&#x440;&#x435;&#x444;&#x438;&#x43a;&#x441;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_372131561" CREATED="1502884598735" MODIFIED="1502884771306">
+<node TEXT="css: my-name-enter {}" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1311785876" CREATED="1502884614430" MODIFIED="1502884776371"/>
+<node TEXT="template: &lt;transition name=&quot;my-name&quot;/&gt;" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1318887925" CREATED="1502884642270" MODIFIED="1502884788134"/>
+</node>
+<node TEXT="" ID="ID_311774497" CREATED="1502889177666" MODIFIED="1502889183690">
+<icon BUILTIN="info"/>
+<node TEXT="simple case" ID="ID_1097914321" CREATED="1502889186270" MODIFIED="1502889208850"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;style&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/*&#1085;&#1072;&#1095;&#1072;&#1083;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1072; &#1080;&#1089;&#1095;&#1077;&#1079;&#1085;&#1086;&#1074;&#1077;&#1085;&#1080;&#1103; &#1101;&#1083;&#1077;&#1084;&#1077;&#1085;&#1090;&#1072;*/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.fade-leave {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;font-size: 20px;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;background-color: #000;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/*&#1089;&#1072;&#1084; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;, &#1091;&#1082;&#1072;&#1079;&#1072;&#1085;&#1080;&#1077; &#1076;&#1083;&#1103; &#1085;&#1077;&#1075;&#1086; transition*/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.fade-leave-active {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;transition: font-size 5s, background-color 5s;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/*&#1082;&#1086;&#1085;&#1077;&#1094; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1072; &#1080;&#1089;&#1095;&#1077;&#1079;&#1085;&#1086;&#1074;&#1077;&#1085;&#1080;&#1103; &#1101;&#1083;&#1077;&#1084;&#1077;&#1085;&#1090;&#1072;*/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.fade-leave-to {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;font-size: 2px;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;background-color: #fff;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/style&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html;charset=utf-8&quot; /&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;script src=&quot;./vue.js&quot;&gt;&lt;/script&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/head&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;body&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;div id = &quot;app&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;button v-on:click=&quot;onToggleShow&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#1055;&#1077;&#1088;&#1077;&#1082;&#1083;&#1102;&#1095;&#1080;&#1090;&#1100;!
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/button&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;transition name=&quot;fade&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;p v-if=&quot;show&quot;&gt;show!&lt;/p&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/transition&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/div&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/body&gt;&#160;&#160;&#160;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;script&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;new Vue({
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;el: '#app',
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;data: {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;show: true
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;},
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;methods: {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;onToggleShow: function(){
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;console.log('toggle show!')
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;if (this.show){
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;this.show = false
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;} else {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;this.show = true
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;})
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/script&gt;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="appear, hide transition elements" ID="ID_1502219411" CREATED="1502890210944" MODIFIED="1502890331070"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;style&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;#app {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;font-size: 20px;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/*&#1085;&#1072;&#1095;&#1072;&#1083;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1072; &#1080;&#1089;&#1095;&#1077;&#1079;&#1085;&#1086;&#1074;&#1077;&#1085;&#1080;&#1103;,&#1082;&#1086;&#1085;&#1077;&#1094; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1072; &#1087;&#1086;&#1103;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103; &#1101;&#1083;&#1077;&#1084;&#1077;&#1085;&#1090;&#1072;*/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.fade-leave, .fade-enter-to&#160;&#160;{
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;font-size: 20px;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;color: #000;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/*&#1089;&#1072;&#1084; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;, &#1091;&#1082;&#1072;&#1079;&#1072;&#1085;&#1080;&#1077; &#1076;&#1083;&#1103; &#1085;&#1077;&#1075;&#1086; transition*/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.fade-leave-active {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;transition: color 5s, font-size 5s;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/*&#1089;&#1072;&#1084; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;, &#1091;&#1082;&#1072;&#1079;&#1072;&#1085;&#1080;&#1077; &#1076;&#1083;&#1103; &#1085;&#1077;&#1075;&#1086; transition*/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.fade-enter-active {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;transition: color 5s, font-size 5s;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/*&#1082;&#1086;&#1085;&#1077;&#1094; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1072; &#1080;&#1089;&#1095;&#1077;&#1079;&#1085;&#1086;&#1074;&#1077;&#1085;&#1080;&#1103;, &#1085;&#1072;&#1095;&#1072;&#1083;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1072; &#1087;&#1086;&#1103;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103; &#1101;&#1083;&#1077;&#1084;&#1077;&#1085;&#1090;&#1072;*/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.fade-leave-to, .fade-enter {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;font-size: 2px;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;color: #fff;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/style&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html;charset=utf-8&quot; /&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;script src=&quot;./vue.js&quot;&gt;&lt;/script&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/head&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;body&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;div id = &quot;app&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;button v-on:click=&quot;onToggleShow&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#1055;&#1077;&#1088;&#1077;&#1082;&#1083;&#1102;&#1095;&#1080;&#1090;&#1100;!
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/button&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;transition name=&quot;fade&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;p v-if=&quot;show&quot;&gt;show!&lt;/p&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/transition&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/div&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/body&gt;&#160;&#160;&#160;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;script&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;new Vue({
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;el: '#app',
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;data: {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;show: true
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;},
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;methods: {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;onToggleShow: function(){
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;console.log('toggle show!')
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;if (this.show){
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;this.show = false
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;} else {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;this.show = true
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;})
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/script&gt;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="css-animation" ID="ID_1254303775" CREATED="1502894651048" MODIFIED="1502894657104">
+<node TEXT="" ID="ID_659571196" CREATED="1502894815504" MODIFIED="1502894815504">
+<node TEXT="css animation" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1715511078" CREATED="1502894658347" MODIFIED="1502894819365"/>
+<node TEXT="type=&quot;animation&quot;" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1090350394" CREATED="1502894804554" MODIFIED="1502894820177"/>
+</node>
+<node TEXT="" ID="ID_1016069447" CREATED="1502894822062" MODIFIED="1502894828648">
+<icon BUILTIN="list"/>
+<node TEXT="&#x43f;&#x43e;&#x445;&#x43e;&#x436;&#x435; &#x43d;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_877534655" CREATED="1502894835159" MODIFIED="1502894913913">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#990000" WIDTH="4" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_761306063" STARTINCLINATION="256;0;" ENDINCLINATION="256;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="v-enter, v-leave" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_786366215" CREATED="1502894916510" MODIFIED="1502895137999">
+<node TEXT="&#x443;&#x434;&#x430;&#x43b;&#x430;&#x435;&#x442;&#x441;&#x44f; &#x43d;&#x435; &#x441;&#x440;&#x430;&#x437;&#x443;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_191720482" CREATED="1502895045824" MODIFIED="1502895097931"/>
+<node TEXT="&#x442;&#x43e;&#x43b;&#x44c;&#x43a;&#x43e; &#x43f;&#x43e;&#x441;&#x43b;&#x435; &#x43d;&#x430;&#x441;&#x442;&#x443;&#x43f;&#x43b;&#x435;&#x43d;&#x438;&#x44f; &quot;animationend&quot;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_40749657" CREATED="1502895056683" MODIFIED="1502895092066"/>
+</node>
+</node>
+</node>
+<node TEXT="js hooks" ID="ID_1907574299" CREATED="1503829771755" MODIFIED="1503829788742">
+<node TEXT="&#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x438; &#x431;&#x435;&#x437; css (transitions, animations)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1214027060" CREATED="1503829790754" MODIFIED="1503829966429"/>
+<node TEXT="" ID="ID_77804878" CREATED="1503829853121" MODIFIED="1503833956258">
+<icon BUILTIN="info"/>
+<node TEXT="enter, leave transition" ID="ID_892749754" CREATED="1503833958144" MODIFIED="1503834877868"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &lt;div id = &quot;app&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;button v-on:click=&quot;onToggleShow&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#1057;&#1082;&#1088;&#1099;&#1090;&#1100;/&#1087;&#1086;&#1082;&#1072;&#1079;&#1072;&#1090;&#1100;!
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/button&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;transition
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;v-on:before-leave=&quot;beforeLeave&quot;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;v-on:leave=&quot;leave&quot;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;v-on:before-enter=&quot;beforeEnter&quot;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;v-on:enter=&quot;enter&quot;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;v-on:enter-cancelled=&quot;enterCancelled&quot;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;v-bind:css=&quot;false&quot;/&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;p v-if=&quot;show&quot;&gt;something text&lt;/p&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/transition&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/div&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/body&gt;&#160;&#160;&#160;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;script&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;new Vue({
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;el: '#app',
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;data: {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;show: true,
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;},
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;methods: {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;onToggleShow: function(){
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;if (this.show){
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;this.show = false
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;} else {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;this.show = true
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;},
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;beforeLeave: function(el) {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;el.style.opacity = 1
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;},
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;leave: function(el, done){
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;var diffOpacity = function() {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;el.style.opacity = el.style.opacity - diff + '';
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;count++
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;if (count &gt; maxCount) {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;count = 0
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;window.clearInterval(interval)
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;done()
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;var interval = window.setInterval(diffOpacity, 100)
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;var count = 0
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;var diff = 0.05
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;var maxCount = 1 / diff
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;},
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;beforeEnter: function (el) {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;el.style.opacity = 0
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;},
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;enter: function (el, done) {
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;var addOpacity = function() {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;el.style.opacity = +(el.style.opacity) + diff + ''
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;count++
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;console.log('count from int', count, el.style.opacity, el.style.opacity + diff)
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;if (count &gt; maxCount) {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;count = 0
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;window.clearInterval(interval)
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;done()
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;var interval = window.setInterval(addOpacity, 100)
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;var count = 0
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;var diff = 0.1
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;var maxCount = 1 / diff
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;},
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;enterCancelled: function(el){
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;console.log(&quot;canceled&quot;)
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;el.style.opacity = '1'
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;})
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="done()" ID="ID_716224749" CREATED="1503834886541" MODIFIED="1503834890910">
+<node TEXT="enter, leave" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_989576529" CREATED="1503834891768" MODIFIED="1503834960265"/>
+<node TEXT="&#x435;&#x441;&#x43b;&#x438; &#x43d;&#x435; &#x438;&#x441;&#x43f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x44c; css &#x43f;&#x435;&#x440;&#x435;&#x445;&#x43e;&#x434;&#x44b;" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_59654718" CREATED="1503834901183" MODIFIED="1503834959967"/>
+<node TEXT="&#x447;&#x442;&#x43e; &#x431;&#x44b; &#x43f;&#x435;&#x440;&#x435;&#x445;&#x43e;&#x434; &#x43d;&#x435; &#x437;&#x430;&#x43a;&#x43e;&#x43d;&#x447;&#x438;&#x43b;&#x441;&#x44f; &#x440;&#x430;&#x43d;&#x44c;&#x448;&#x435;&#xa;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x44b; &#x444;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x439;" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1538122288" CREATED="1503834913727" MODIFIED="1503834959126"/>
+</node>
+<node TEXT="v-bind:css = &quot;false&quot;" ID="ID_1307942630" CREATED="1503834964102" MODIFIED="1503834988198">
+<node TEXT="&#x44f;&#x432;&#x43d;&#x43e;&#x435; &#x443;&#x43a;&#x430;&#x437;&#x430;&#x43d;&#x438;&#x435; &#x43d;&#x430; &#x442;&#x43e;, &#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x44f; &#x431;&#x435;&#x437; css" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1720193510" CREATED="1503834989691" MODIFIED="1503835025141"/>
+<node TEXT="&#x432; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x435; transition" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1492543386" CREATED="1503835010011" MODIFIED="1503835023358"/>
+</node>
+</node>
+<node TEXT="who do it work?" ID="ID_238235117" CREATED="1502875951835" MODIFIED="1502895221698">
+<icon BUILTIN="idea"/>
+<node TEXT="1) &#x438;&#x449;&#x443;&#x442;&#x441;&#x44f; css &#x43a;&#x43b;&#x430;&#x441;&#x441;&#x44b; &#x43a; &#x44d;&#x442;&#x43e;&#x43c;&#x443; &#x43f;&#x435;&#x440;&#x435;&#x445;&#x43e;&#x434;&#x443;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_948693402" CREATED="1502882822261" MODIFIED="1502882990060"/>
+<node TEXT="2) &#x438;&#x449;&#x443;&#x442;&#x441;&#x44f; &#x445;&#x443;&#x43a;&#x438;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1268710865" CREATED="1502882873473" MODIFIED="1502882989455"/>
+<node TEXT="3) &#x435;&#x441;&#x43b;&#x438; &#x43d;&#x438;&#x447;&#x435;&#x433;&#x43e; &#x43d;&#x435;&#x442;, &#x442;&#x43e; &#x438;&#x437;&#x43c;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x435; &#x431;&#x443;&#x434;&#x435;&#x442; &#x432;&#x44b;&#x43f;&#x43e;&#x43b;&#x43d;&#x435;&#x43d;&#x43e;&#xa;&#x432; &#x441;&#x43b;&#x435;&#x434;&#x443;&#x44e;&#x449;&#x435;&#x43c; &#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x43e;&#x43d;&#x43d;&#x43e;&#x43c; &#x444;&#x440;&#x435;&#x439;&#x43c;&#x435; (&#x43e;&#x442;&#x43b;&#x438;&#x447;&#x43d;&#x44b;&#x439; &#x43e;&#x442; nextTick)" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1261582502" CREATED="1502882894889" MODIFIED="1502882988477"/>
+</node>
+<node TEXT="&#x43f;&#x435;&#x440;&#x435;&#x43e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x435;&#x43d;&#x438;&#x435; &#x43a;&#x43b;&#x430;&#x441;&#x441;&#x43e;&#x432;" ID="ID_1293205649" CREATED="1502891287800" MODIFIED="1502891303282">
+<node TEXT="&#x443;&#x43a;&#x430;&#x437;&#x430;&#x442;&#x44c; &#x430;&#x442;&#x442;&#x440;&#x438;&#x431;&#x443;&#x442;&#x44b; &#x43a; transition" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_454825340" CREATED="1502891311985" MODIFIED="1502893502361"/>
+<node TEXT="" ID="ID_1535509421" CREATED="1502893503204" MODIFIED="1502893581255">
+<icon BUILTIN="list"/>
+<node TEXT="enter-class" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_756996114" CREATED="1502893505203" MODIFIED="1502893576519"/>
+<node TEXT="enter-active-class" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1045346387" CREATED="1502893513884" MODIFIED="1502893576517"/>
+<node TEXT="enter-to-class" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1051416180" CREATED="1502893526348" MODIFIED="1502893576514"/>
+<node TEXT="leave-class" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_183911570" CREATED="1502893536040" MODIFIED="1502893576512"/>
+<node TEXT="leave-active-class" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_77127637" CREATED="1502893545377" MODIFIED="1502893576510"/>
+<node TEXT="leave-to-class" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_113561942" CREATED="1502893560514" MODIFIED="1502893576501"/>
+</node>
+</node>
+<node TEXT="duration" ID="ID_13744005" CREATED="1502895698143" MODIFIED="1502895706147">
+<node TEXT="&#x437;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435; &#x432;&#x440;&#x435;&#x43c;&#x435;&#x43d;&#x438; &#x43f;&#x435;&#x440;&#x435;&#x445;&#x43e;&#x434;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1428249439" CREATED="1502895707169" MODIFIED="1502895886306"/>
+<node TEXT="" ID="ID_378455821" CREATED="1502895865033" MODIFIED="1502895865033">
+<node TEXT="&lt;transition :duration=&quot;{ enter: 500, leave: 800}&quot;&gt;...&lt;/transition&gt;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1590113627" CREATED="1502895745381" MODIFIED="1502895892593"/>
+<node TEXT="&lt;transition :duration=&quot;1000&quot;&gt;...&lt;/transition&gt;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1514812421" CREATED="1502895823292" MODIFIED="1502895892588"/>
+</node>
+</node>
+<node TEXT="v-if/v-else" ID="ID_1258177255" CREATED="1502896621425" MODIFIED="1503835705505">
+<node TEXT="&#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x44f; &#x443;&#x441;&#x43b;&#x43e;&#x432;&#x43d;&#x43e;&#x433;&#x43e; &#x43f;&#x43e;&#x44f;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x44f;/&#x438;&#x441;&#x447;&#x435;&#x437;&#x43d;&#x43e;&#x432;&#x435;&#x43d;&#x438;&#x44f; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x43e;&#x432;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1196241117" CREATED="1503835706562" MODIFIED="1503835801636"/>
+<node TEXT="" ID="ID_1280473094" CREATED="1503835766000" MODIFIED="1503836542999">
+<icon BUILTIN="info"/>
+<node TEXT="simple" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1797929990" CREATED="1503836544105" MODIFIED="1503839848432"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;button v-on:click=&quot;onToggleShow&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;{{show}}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/button&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;transition name=&quot;fade&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;p v-if=&quot;show&quot; key=&quot;true&quot;&gt;show=true&lt;/p&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;p v-else key=&quot;false&quot;&gt; show=false &lt;/p&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/transition&gt;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="keys" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_5200689" CREATED="1503837142162" MODIFIED="1503839848135"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;button v-on:click=&quot;onToggleShow&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;{{show}}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/button&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;transition name=&quot;fade&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;!-- &#1072;&#1085;&#1086;&#1083;&#1072;&#1075;&#1080;&#1095;&#1085;&#1086; &#1080;&#1089;&#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1076;&#1074;&#1091;&#1093; &#1101;&#1083;&#1077;&#1084;&#1077;&#1085;&#1090;&#1086;&#1074;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#1086;&#1090;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085;&#1080;&#1077; &#1080;&#1085;&#1076;&#1077;&#1090;&#1080;&#1095;&#1085;&#1086; --&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;p v-bind:key=&quot;show&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;show={{true}}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/p&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/transition&gt;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="components" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1518955473" CREATED="1503838255389" MODIFIED="1503839847592"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;&lt;body&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;div id = &quot;app&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;button v-on:click=&quot;onToggleComponent&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;{{nameComponent}}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/button&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;transition mode=&quot;out-in&quot; name=&quot;fade&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;component :is=&quot;nameComponent&quot;/&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/transition&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/div&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/body&gt;&#160;&#160;&#160;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;script&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;new Vue({
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;el: '#app',
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;data: {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;nameComponent: 'first'
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;},
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;methods: {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;onToggleComponent: function(){
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;if (this.nameComponent == 'first'){
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;this.nameComponent = 'second'
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;} else {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;this.nameComponent = 'first'
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;},
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;},
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;components: {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&quot;first&quot;: {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;template: '&lt;div&gt;&#1087;&#1077;&#1088;&#1074;&#1099;&#1081; &#1082;&#1086;&#1084;&#1087;&#1086;&#1085;&#1077;&#1085;&#1090;&lt;/div&gt;'
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;},
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&quot;second&quot;: {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;template: '&lt;div&gt;&#1074;&#1090;&#1086;&#1088;&#1086;&#1081; &#1082;&#1086;&#1084;&#1087;&#1086;&#1085;&#1077;&#1085;&#1090;&lt;/div&gt;'
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;})
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/script&gt;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="key" ID="ID_1614076972" CREATED="1503835726876" MODIFIED="1503835734894">
+<node TEXT="&#x435;&#x441;&#x43b;&#x438; &#x438;&#x441;&#x43f;&#x43e;&#x43b;&#x44c;&#x437;&#x443;&#x44e;&#x442;&#x441;&#x44f; &#x43e;&#x434;&#x43d;&#x43e;&#x438;&#x43c;&#x435;&#x43d;&#x43d;&#x44b;&#x435; &#x442;&#x435;&#x433;&#x438;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_45171501" CREATED="1503835735633" MODIFIED="1503835751460">
+<node TEXT="&#x43f;&#x43b;&#x43e;&#x445;&#x43e; &#x438; &#x434;&#x43e;&#x43b;&#x436;&#x43d;&#x43e; &#x431;&#x44b;&#x442;&#x44c; &#x43e;&#x447;&#x435;&#x43d;&#x44c; &#x440;&#x435;&#x434;&#x43a;&#x43e;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1959543406" CREATED="1503835752168" MODIFIED="1503837357055">
+<font SIZE="6"/>
+</node>
+</node>
+<node TEXT="&#x447;&#x442;&#x43e; &#x431;&#x44b; &#x43e;&#x431;&#x43e;&#x437;&#x43d;&#x430;&#x447;&#x438;&#x442;&#x44c; &#x43d;&#x435;&#x441;&#x43a;&#x43e;&#x43b;&#x44c;&#x43a;&#x43e; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x43e;&#x432; &#x43f;&#x440;&#x438; &#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x438;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_161886931" CREATED="1503837359306" MODIFIED="1503837382532"/>
+</node>
+<node TEXT="mode" ID="ID_728150414" CREATED="1503838262981" MODIFIED="1503838267253">
+<node TEXT="mode=&quot;in-out&quot;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1035679603" CREATED="1503837414327" MODIFIED="1504439029057">
+<node TEXT="&#x430;&#x43b;&#x44c;&#x442;&#x435;&#x440;&#x43d;&#x430;&#x442;&#x438;&#x432;&#x430; &#x441;&#x442;&#x430;&#x43d;&#x434;&#x430;&#x440;&#x442;&#x43d;&#x43e;&#x43c;&#x443; &#x440;&#x435;&#x436;&#x438;&#x43c;&#x443; &#x43f;&#x435;&#x440;&#x435;&#x445;&#x43e;&#x434;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_499260796" CREATED="1503837423918" MODIFIED="1503837618877">
+<font SIZE="7"/>
+</node>
+<node TEXT="&#x441;&#x43d;&#x430;&#x447;&#x430;&#x43b;&#x430; &#x43f;&#x43e;&#x44f;&#x432;&#x43b;&#x44f;&#x435;&#x442;&#x441;&#x44f; &#x43d;&#x43e;&#x432;&#x44b;&#x439; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;, &#x430; &#x442;&#x43e;&#x43b;&#x44c;&#x43a;&#x43e; &#x43f;&#x43e;&#x442;&#x43e;&#x43c; &#x438;&#x441;&#x447;&#x435;&#x437;&#x430;&#x435;&#x442; &#x441;&#x442;&#x430;&#x440;&#x44b;&#x439;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_389280204" CREATED="1503837446096" MODIFIED="1503837613551"/>
+</node>
+<node TEXT="mode=&quot;out-in&quot;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1572785687" CREATED="1503837622765" MODIFIED="1503838274945">
+<node TEXT="&#x430;&#x43b;&#x44c;&#x442;&#x435;&#x440;&#x43d;&#x430;&#x442;&#x438;&#x432;&#x430; &#x441;&#x442;&#x430;&#x43d;&#x434;&#x430;&#x440;&#x442;&#x43d;&#x43e;&#x43c;&#x443; &#x440;&#x435;&#x436;&#x438;&#x43c;&#x443; &#x43f;&#x435;&#x440;&#x435;&#x445;&#x43e;&#x434;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_976137245" CREATED="1503838200553" MODIFIED="1503838250833">
+<font SIZE="8"/>
+</node>
+<node TEXT="&#x441;&#x43d;&#x430;&#x447;&#x430;&#x43b;&#x430; &#x438;&#x441;&#x447;&#x435;&#x437;&#x430;&#x435;&#x442; &#x441;&#x442;&#x430;&#x440;&#x44b;&#x439; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;, &#x430; &#x43f;&#x43e;&#x442;&#x43e;&#x43c; &#x43f;&#x43e;&#x44f;&#x432;&#x43b;&#x44f;&#x435;&#x442;&#x441;&#x44f; &#x43d;&#x43e;&#x432;&#x44b;&#x439;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1806579217" CREATED="1503838219426" MODIFIED="1503838244787"/>
+</node>
+</node>
+<node TEXT="dinamic components" ID="ID_1480648206" CREATED="1503838285242" MODIFIED="1503839760939">
+<node TEXT="&#x434;&#x438;&#x43d;&#x430;&#x43c;&#x438;&#x447;&#x43d;&#x44b;&#x435; &#x43a;&#x43e;&#x43c;&#x43f;&#x43e;&#x43d;&#x435;&#x43d;&#x442;&#x44b;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_251381287" CREATED="1503839762204" MODIFIED="1503839801356"/>
+<node TEXT="&#x432;&#x43c;&#x435;&#x441;&#x442;&#x43e; key &#x438;&#x441;&#x43f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x44c; is" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1950835382" CREATED="1503839777347" MODIFIED="1503839801792"/>
+</node>
+</node>
+<node TEXT="v-for" ID="ID_360094351" CREATED="1504439535489" MODIFIED="1504439542148">
+<node TEXT="" ID="ID_568749203" CREATED="1504440057044" MODIFIED="1504440057044">
+<node TEXT="&#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x44f; &#x433;&#x440;&#x443;&#x43f; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x43e;&#x432;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1031688925" CREATED="1504440064378" MODIFIED="1504445965585"/>
+<node TEXT="&lt;transition-group/&gt;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1304413924" CREATED="1504440081101" MODIFIED="1504445964234">
+<node TEXT="&#x441;&#x43e;&#x437;&#x434;&#x430;&#x435;&#x442; &#x43f;&#x43e; &#x443;&#x43c;&#x43e;&#x43b;&#x447;&#x430;&#x43d;&#x438;&#x44e; &lt;span/&gt;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1277912929" CREATED="1504445979654" MODIFIED="1504446286029"/>
+<node TEXT="&#x434;&#x43b;&#x44f; &#x43f;&#x435;&#x440;&#x435;&#x43e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x438;&#x435;&#x43d;&#x44f; &#x443;&#x441;&#x442;&#x430;&#x43d;&#x43e;&#x432;&#x438;&#x442;&#x44c; tag" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1196134338" CREATED="1504446008726" MODIFIED="1504446285151"/>
+</node>
+</node>
+<node TEXT="key &#x43e;&#x431;&#x44f;&#x437;&#x430;&#x442;&#x435;&#x43b;&#x435;&#x43d;" ID="ID_935654182" CREATED="1504445966632" MODIFIED="1504446466090"/>
+<node TEXT="fade-move" ID="ID_1895491267" CREATED="1504446467396" MODIFIED="1504446496446">
+<node TEXT="&#x438;&#x441;&#x43f;&#x43e;&#x43b;&#x44c;&#x437;&#x443;&#x435;&#x442;&#x441;&#x44f; &#x434;&#x43b;&#x44f; &#x430;&#x43d;&#x438;&#x43c;&#x430;&#x446;&#x438;&#x438; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x43e;&#x432;" ID="ID_958601073" CREATED="1504446497263" MODIFIED="1504446512165"/>
+</node>
+<node TEXT="" ID="ID_586903188" CREATED="1504447623298" MODIFIED="1504447650803">
+<icon BUILTIN="info"/>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;style&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;#app {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;font-size: 20px;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;font-weight: bold;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.list_item {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/*&#1085;&#1077; &#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1077;&#1090; &#1076;&#1083;&#1103; &#1101;&#1083;&#1077;&#1084;&#1077;&#1085;&#1090;&#1086;&#1074; &#1089; display: inline*/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;display: inline-block;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;margin-right: 20px;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.list-enter-active {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;transition: all 1s;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/*&#1076;&#1083;&#1103; &#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1086;&#1081; &#1088;&#1072;&#1073;&#1086;&#1090;&#1099; &#1091;&#1076;&#1072;&#1083;&#1077;&#1085;&#1080;&#1103; &#1101;&#1083;&#1077;&#1084;&#1077;&#1085;&#1090;&#1086;&#1074;*/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/*&#1089;&#1090;&#1072;&#1074;&#1080;&#1090;&#1100; absolute &#1095;&#1090;&#1086; &#1073;&#1099; &#1101;&#1090;&#1086;&#1090; &#1101;&#1083;&#1077;&#1084;&#1077;&#1085;&#1090; &#1074;&#1099;&#1087;&#1086;&#1076;&#1072;&#1083;*/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/*&#1080; &#1086;&#1089;&#1090;&#1072;&#1083;&#1100;&#1085;&#1086;&#1081; &#1089;&#1087;&#1080;&#1089;&#1086;&#1082; &#1082;&#1088;&#1072;&#1089;&#1080;&#1074;&#1086; &#1072;&#1085;&#1080;&#1084;&#1080;&#1088;&#1086;&#1074;&#1072;&#1083;&#1089;&#1103;*/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.list-leave-active {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;position: absolute;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;transition: all 0.5s;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.list-leave-to {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;opacity: 0;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;transform: translateX(20px);
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.list-enter {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;opacity: 0;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;transform: translateX(40px);
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/*&#1076;&#1083;&#1103; &#1087;&#1077;&#1088;&#1077;&#1084;&#1077;&#1097;&#1077;&#1085;&#1080;&#1103; &#1101;&#1083;&#1077;&#1084;&#1077;&#1085;&#1090;&#1086;&#1074; &#1074; &#1089;&#1087;&#1080;&#1089;&#1082;&#1077;*/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/*&#1091;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1090;&#1100; &#1101;&#1090;&#1086;&#1090; &#1082;&#1083;&#1072;&#1089;&#1089;*/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.list-move {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;transition: transform 0.5s;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/style&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html;charset=utf-8&quot; /&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;script src=&quot;./vue.js&quot;&gt;&lt;/script&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/head&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;body&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;div id = &quot;app&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;button @click=&quot;add&quot;&gt;Add&lt;/button&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;button @click=&quot;remove&quot;&gt;Remove&lt;/button&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;!-- tag &#1091;&#1089;&#1090;&#1072;&#1085;&#1072;&#1074;&#1083;&#1080;&#1074;&#1072;&#1077;&#1090; &#1101;&#1083;&#1077;&#1084;&#1077;&#1085;-&#1086;&#1073;&#1077;&#1088;&#1090;&#1082;&#1091; --&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;transition-group name=&quot;list&quot; tag=&quot;ul&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;li
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;v-for=&quot;item in items&quot;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;:key=&quot;item&quot;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;class=&quot;list-items&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;{{ item }}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/li&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/transition-group&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/div&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/body&gt;&#160;&#160;&#160;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="filters" ID="ID_1288857846" CREATED="1508052710488" MODIFIED="1508052716848">
+<node TEXT="&#x43e;&#x431;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x447;&#x438;&#x43a;&#x438; &#x43e;&#x442;&#x43e;&#x431;&#x440;&#x430;&#x436;&#x430;&#x435;&#x43c;&#x44b;&#x445; &#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x445;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1257848576" CREATED="1508052717856" MODIFIED="1508056235101"/>
+<node TEXT="set filter" ID="ID_1950719873" CREATED="1508056237306" MODIFIED="1508058141813">
+<node TEXT="Vue.filter(&apos;name&apos;, function(_val, otherParams1, otherParams2...){})" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_773915512" CREATED="1508058142977" MODIFIED="1508059450178"/>
+<node TEXT="" ID="ID_1259961235" CREATED="1508058172949" MODIFIED="1508059641606">
+<icon BUILTIN="info"/>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;...<br/>&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;ul&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;input v-model=&quot;input&quot;/&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;p&gt; {{input | addLetters('a')}}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/ul&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/div&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;script&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;Vue.filter('addLetters', function (_text ,_letters){
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;return _text + _letters
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;})
+    </p>
+    <p>
+      &#160;&#160;&#160;...
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="descrtiption" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="left" ID="ID_160568784" CREATED="1394549915195" MODIFIED="1472216288636">
+<edge COLOR="#843d3d"/>
+<node TEXT="JS &#x43d;&#x430;&#x43f;&#x438;&#x441;&#x430;&#x43d; &#x43d;&#x430; &#x43a;&#x43e;&#x43b;&#x435;&#x43d;&#x43a;&#x430;&#x445; &#x438; &#x43f;&#x43e;&#x44d;&#x442;&#x43e;&#x43c;&#x443; &#x433;&#x43e;&#x432;&#x43e;&#x440;&#x44f;&#x442;,&#xa; &#x447;&#x442;&#x43e; &#x43e;&#x43d; &#x443;&#x436;&#x430;&#x441;&#x435;&#x43d;, &#x43d;&#x43e; &#x43d;&#x430; &#x441;&#x430;&#x43c;&#x43e;&#x43c; &#x434;&#x435;&#x43b;&#x435; &#x43d;&#x435;&#x442;&#xa;(&#x435;&#x441;&#x43b;&#x438; &#x437;&#x43d;&#x430;&#x442;&#x44c; &#x43f;&#x43e;&#x434;&#x432;&#x43e;&#x434;&#x43d;&#x44b;&#x435; &#x43a;&#x430;&#x43c;&#x43d;&#x438;)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_630445423" CREATED="1400685256812" MODIFIED="1446128540340">
+<font SIZE="10"/>
+</node>
+<node TEXT="&#x438;&#x441;&#x442;&#x43e;&#x440;&#x438;&#x44f;" ID="ID_1720093413" CREATED="1400683619997" MODIFIED="1436443939577">
+<font SIZE="10"/>
+<node TEXT="&#x411;&#x440;&#x435;&#x43d;&#x434;&#x430;&#x43d; &#x410;&#x439;&#x43a;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_440043647" CREATED="1400684241904" MODIFIED="1472639738720"/>
+<node TEXT="&#x43a;&#x43e;&#x43c;&#x43f;&#x430;&#x43d;&#x438;&#x438;" ID="ID_1292905256" CREATED="1400684286769" MODIFIED="1436443939580">
+<font SIZE="10"/>
+<node TEXT="Netscape Communications Corporation" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1773465258" CREATED="1400684296443" MODIFIED="1400684349132"/>
+<node TEXT="Sun Microsystems, Inc" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1272488469" CREATED="1400684353834" MODIFIED="1400684390267"/>
+</node>
+<node TEXT="Netscape Navigator 2.0" ID="ID_626926277" CREATED="1400684456033" MODIFIED="1436443939581">
+<font SIZE="10"/>
+<node TEXT="JavaScript 1.0" ID="ID_547043748" CREATED="1400684555211" MODIFIED="1400684566320"/>
+<node TEXT="4 &#x434;&#x435;&#x43a;&#x430;&#x431;&#x440;&#x44f; 1995 &#x433;&#x43e;&#x434;" ID="ID_944390788" CREATED="1400684570786" MODIFIED="1400684600232"/>
+</node>
+</node>
+<node TEXT="&quot;&#x432; &#x434;&#x432;&#x443;&#x445; &#x441;&#x43b;&#x43e;&#x432;&#x430;&#x445;&quot;" ID="ID_1092687990" CREATED="1400684739999" MODIFIED="1436443939582">
+<font SIZE="10"/>
+<node TEXT="Lisp/Sheme(&#x43f;&#x43e;&#x447;&#x442;&#x438;) &#x441; &#x421;-&#x441;&#x438;&#x43d;&#x442;&#x430;&#x43a;&#x441;&#x438;&#x441;&#x43e;&#x43c;(&#x43f;&#x43e;&#x447;&#x442;&#x438;)" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_834399329" CREATED="1400684812165" MODIFIED="1436443939584">
+<font SIZE="10"/>
+</node>
+<node TEXT="&#x43d;&#x435;&#x441;&#x442;&#x440;&#x43e;&#x433;&#x430;&#x44f; &#x442;&#x438;&#x43f;&#x438;&#x437;&#x430;&#x446;&#x438;&#x44f;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_313409247" CREATED="1400684895945" MODIFIED="1436443939585">
+<font SIZE="10"/>
+</node>
+<node TEXT="&#x43f;&#x440;&#x43e;&#x442;&#x43e;&#x442;&#x438;&#x43f;&#x43d;&#x43e;-&#x43e;&#x440;&#x435;&#x43d;&#x442;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x43d;&#x44b;&#x439;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_598787643" CREATED="1400684909875" MODIFIED="1436443939586">
+<font SIZE="10"/>
+</node>
+<node TEXT="&#x441;&#x446;&#x435;&#x43d;&#x430;&#x440;&#x43d;&#x44b;&#x439;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_219188604" CREATED="1400685053353" MODIFIED="1436443939587">
+<font SIZE="10"/>
+</node>
+<node TEXT="&quot;&#x431;&#x440;&#x430;&#x443;&#x437;&#x435;&#x440;&#x43d;&#x44b;&#x439; &#x42f;&#x41f;&quot;" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_324624008" CREATED="1400685063854" MODIFIED="1436443939588">
+<font SIZE="10"/>
+</node>
+</node>
+<node TEXT="&#x441;&#x43f;&#x435;&#x446;&#x438;&#x444;&#x438;&#x43a;&#x430;&#x446;&#x438;&#x438;" ID="ID_1661312441" CREATED="1446128567221" MODIFIED="1446128574069">
+<node TEXT="Ecma-262 edition 5" ID="ID_945344541" CREATED="1406540974611" MODIFIED="1446136933797" LINK="http://es5.javascript.ru/index.html">
+<font SIZE="10"/>
+</node>
+<node TEXT="Ecma-262 edition 6" ID="ID_1143821500" CREATED="1499785947952" MODIFIED="1499785977047"/>
+</node>
+<node TEXT="&#x432;&#x435;&#x440;&#x441;&#x438;&#x438;" ID="ID_366162096" CREATED="1406540757881" MODIFIED="1436443939593">
+<font SIZE="10"/>
+<node TEXT="JavaScript 1.7" LOCALIZED_STYLE_REF="default" ID="ID_1376024348" CREATED="1406540956298" MODIFIED="1436443939594">
+<font SIZE="10"/>
+</node>
+</node>
+</node>
+<node TEXT="uses" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="left" ID="ID_255620334" CREATED="1394451433035" MODIFIED="1472215510919">
+<edge COLOR="#cc00cc"/>
+<node TEXT="scripts browsers" LOCALIZED_STYLE_REF="default" ID="ID_1250183180" CREATED="1446128627547" MODIFIED="1460372470358">
+<node TEXT="...&#xa;&lt;script type=&quot;text/javascript&quot;&gt;&#xa;    &#x43a;&#x43e;&#x434; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;&#x430;&#xa;&lt;/script&gt;&#xa;...." LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1414609979" CREATED="1400685738600" MODIFIED="1436443939597">
+<font SIZE="10"/>
+</node>
+<node TEXT="// &#x432;&#x441;&#x442;&#x430;&#x432;&#x43a;&#x430; &#x43f;&#x440;&#x43e;&#x431;&#x435;&#x43b;&#x43e;&#x432; &#x43c;&#x435;&#x436;&#x434;&#x443; &#x442;&#x435;&#x433;&#x430;&#x43c;&#x438; - &#x43d;&#x435;&#x434;&#x43e;&#x43f;&#x443;&#x441;&#x442;&#x438;&#x43c;&#x43e;!&#xa;&lt;script type = &quot;text/javascript&quot;src = &quot;myscript.js&quot;&gt;&lt;/script&gt;" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1806229877" CREATED="1400845330191" MODIFIED="1436443939610">
+<font SIZE="10"/>
+</node>
+<node TEXT="front end" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_909126214" CREATED="1472210346515" MODIFIED="1472210365600"/>
+</node>
+<node TEXT="bookmarklet" ID="ID_1882052405" CREATED="1472580925762" MODIFIED="1472580939895"/>
+<node TEXT="browser addons" LOCALIZED_STYLE_REF="default" ID="ID_1606258010" CREATED="1446129480893" MODIFIED="1460372471894">
+<node TEXT="firefox" ID="ID_531224680" CREATED="1472211132423" MODIFIED="1472211135800"/>
+</node>
+<node TEXT="user&apos;s script" LOCALIZED_STYLE_REF="default" ID="ID_1758273265" CREATED="1446127768737" MODIFIED="1460372472318">
+<node TEXT="Greasemonkey" ID="ID_917048621" CREATED="1460739506311" MODIFIED="1472639020228" LINK="http://www.greasespot.net/">
+<node TEXT="block metadata" ID="ID_108942543" CREATED="1460826002848" MODIFIED="1472639054424">
+<node TEXT="" ID="ID_315524882" CREATED="1472636956817" MODIFIED="1472636966931">
+<icon BUILTIN="list"/>
+<node TEXT="@name" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1580863110" CREATED="1472581921188" MODIFIED="1472638682515">
+<node TEXT="&#x43d;&#x430;&#x437;&#x432;&#x430;&#x43d;&#x438;&#x435; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;&#x430;, &#x435;&#x441;&#x43b;&#x438; &#x44d;&#x442;&#x43e; &#x43d;&#x430;&#x437;&#x432;&#x430;&#x43d;&#x438;&#x435;&#xa;&#x43e;&#x442;&#x441;&#x442;&#x443;&#x442;&#x441;&#x442;&#x432;&#x443;&#x435;&#x442;, &#x442;&#x43e; &#x43d;&#x430;&#x437;&#x432;&#x430;&#x442;&#x44c;&#x441;&#x44f; &#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x439; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;&#xa;&#x431;&#x443;&#x434;&#x435;&#x442; &#x442;&#x430;&#x43a; &#x436;&#x435;, &#x43a;&#x430;&#x43a; &#x438; &#x444;&#x430;&#x439;&#x43b;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_797190609" CREATED="1472636863266" MODIFIED="1472637033094"/>
+<node TEXT="...&#xa;@name = My_script&#xa;..." LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_514496266" CREATED="1472636917085" MODIFIED="1472637030904"/>
+</node>
+<node TEXT="@namespace" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1994789340" CREATED="1472637417611" MODIFIED="1472638683354">
+<node TEXT="&#x43f;&#x440;&#x43e;&#x441;&#x442;&#x430;&#x440;&#x43d;&#x441;&#x442;&#x432;&#x43e; &#x438;&#x43c;&#x435;&#x43d;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_174662859" CREATED="1472637427060" MODIFIED="1472637436944"/>
+<node TEXT="...&#xa;@namespace = arteben&#xa;..." LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1401989535" CREATED="1472637439985" MODIFIED="1472637468767"/>
+</node>
+<node TEXT="@author" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_225864542" CREATED="1472637116179" MODIFIED="1472638683757"/>
+<node TEXT="@license" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1056449204" CREATED="1472637147060" MODIFIED="1472638684198"/>
+<node TEXT="@version" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1971562063" CREATED="1472637172074" MODIFIED="1472638684598">
+<node TEXT="&#x432;&#x435;&#x440;&#x441;&#x438;&#x44f; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;&#x430;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_951446099" CREATED="1472637334659" MODIFIED="1472637960823"/>
+<node TEXT="&#x43e;&#x442;&#x43e;&#x431;&#x440;&#x430;&#x436;&#x430;&#x435;&#x442;&#x441;&#x44f; &#x432; &#x438;&#x43d;&#x442;&#x435;&#x440;&#x444;&#x435;&#x439;&#x441;&#x435;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_415007000" CREATED="1472637345931" MODIFIED="1472637961522"/>
+<node TEXT="&#x430;&#x432;&#x442;&#x43e;&#x43e;&#x431;&#x43d;&#x43e;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_810273" CREATED="1472637402260" MODIFIED="1472637961972"/>
+</node>
+<node TEXT="@include" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_91072092" CREATED="1472637969495" MODIFIED="1472638684989">
+<node TEXT="" ID="ID_1996266867" CREATED="1472638403965" MODIFIED="1472638403965">
+<node TEXT="url, &#x433;&#x434;&#x435; &#x432;&#x43a;&#x43b;&#x44e;&#x447;&#x430;&#x435;&#x442;&#x441;&#x44f; &#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x439; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1483020418" CREATED="1472637981099" MODIFIED="1472638021838"/>
+<node TEXT="* &#x43c;&#x43e;&#x436;&#x435;&#x442; &#x438;&#x441;&#x43f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x44c;&#x441;&#x44f; - &#x434;&#x43b;&#x44f; &#x432;&#x441;&#x435;&#x445;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_853055312" CREATED="1472638005469" MODIFIED="1472638021365"/>
+<node TEXT="&#x43f;&#x440;&#x438; &#x43e;&#x442;&#x441;&#x443;&#x442;&#x441;&#x432;&#x438;&#x438; &#x44d;&#x442;&#x43e;&#x439; &#x434;&#x435;&#x440;&#x435;&#x43a;&#x442;&#x438;&#x432;&#x44b;&#xa;&#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442; &#x431;&#x443;&#x434;&#x435;&#x442; &#x437;&#x430;&#x43f;&#x443;&#x441;&#x43a;&#x430;&#x442;&#x44c;&#x441;&#x44f; &#x43d;&#x430; &#x432;&#x441;&#x435;&#x445;&#xa;&#x441;&#x442;&#x440;&#x430;&#x43d;&#x438;&#x446;&#x430;&#x445;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_743852911" CREATED="1472638589103" MODIFIED="1472638630171"/>
+<node TEXT="&#x43e;&#x434;&#x43d;&#x430; &#x441;&#x442;&#x440;&#x43e;&#x43a;&#x430; - &#x43e;&#x434;&#x43d;&#x43e; &#x43f;&#x440;&#x430;&#x432;&#x438;&#x43b;&#x43e;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_368032702" CREATED="1472638023879" MODIFIED="1472638330468"/>
+</node>
+<node TEXT="...&#xa;@include http*://habrahabr.ru/*&#xa;..." LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1590939357" CREATED="1472638332747" MODIFIED="1472638400487"/>
+</node>
+<node TEXT="@exclude" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1663700066" CREATED="1472638532872" MODIFIED="1472638685617">
+<node TEXT="&#x43f;&#x440;&#x430;&#x432;&#x438;&#x43b;&#x430; &#x442;&#x435; &#x436;&#x435;, &#x447;&#x442;&#x43e; &#x438; &#x443; @include" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_767596803" CREATED="1472638643500" MODIFIED="1472638663084"/>
+<node TEXT="&#x43e;&#x43f;&#x438;&#x441;&#x430;&#x43d;&#x438;&#x435; url &#x441;&#x442;&#x440;&#x430;&#x43d;&#x438;&#x446;&#x44b;,&#xa;&#x433;&#x434;&#x435; &#x437;&#x430;&#x43f;&#x443;&#x441;&#x43a;&#x430;&#x442;&#x44c; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442; &#x43d;&#x435; &#x43d;&#x443;&#x436;&#x43d;&#x43e;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1339468769" CREATED="1472638547914" MODIFIED="1472638584085"/>
+</node>
+</node>
+<node TEXT="&#x431;&#x43b;&#x43e;&#x43a;, &#x441;&#x43e;&#x434;&#x435;&#x440;&#x436;&#x430;&#x449;&#x438;&#x439; &#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x435; &#x43e;&#x431; &#x44d;&#x442;&#x43e;&#x43c;&#xa;&#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;&#x435;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_911626281" CREATED="1472636970662" MODIFIED="1472637026067"/>
+<node TEXT="&#x43c;&#x43e;&#x436;&#x435;&#x442; &#x43e;&#x442;&#x441;&#x443;&#x442;&#x441;&#x442;&#x432;&#x430;&#x432;&#x430;&#x442;&#x44c;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1532148756" CREATED="1472636994852" MODIFIED="1472637025445"/>
+<node TEXT="// ==UserScript==&#xa;// ...&#xa;// ==/UserScript==" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1198215480" CREATED="1472637020315" MODIFIED="1472637024129"/>
+</node>
+</node>
+<node TEXT="&#x444;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x43e;&#x43d;&#x430;&#x43b; &#x434;&#x43b;&#x44f; &#x43e;&#x434;&#x43d;&#x43e;&#x439; &#x441;&#x442;&#x440;&#x430;&#x43d;&#x438;&#x446;&#x44b;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_258287651" CREATED="1472637776346" MODIFIED="1472637873763"/>
+<node TEXT="&#x43d;&#x430;&#x43f;&#x438;&#x441;&#x430;&#x43d;&#x438;&#x435; &#x431;&#x43e;&#x442;&#x43e;&#x432;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1041178599" CREATED="1472637765968" MODIFIED="1472637875488"/>
+</node>
+<node TEXT="mozilla apps" LOCALIZED_STYLE_REF="default" ID="ID_1896549837" CREATED="1446127843369" MODIFIED="1460372472807"/>
+<node TEXT="node.js" LOCALIZED_STYLE_REF="default" ID="ID_1931467273" CREATED="1446128657154" MODIFIED="1472914014064">
+<font BOLD="true"/>
+<cloud COLOR="#ffff99" SHAPE="ARC"/>
+<node TEXT="" ID="ID_1168977591" CREATED="1472903305333" MODIFIED="1472903313999">
+<icon BUILTIN="help"/>
+<node TEXT="&#x441;&#x435;&#x440;&#x432;&#x435;&#x440; &#x434;&#x43b;&#x44f; web" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1028629405" CREATED="1472902774220" MODIFIED="1472903909241"/>
+<node TEXT="&#x43c;&#x435;&#x43d;&#x435;&#x434;&#x436;&#x435;&#x440; &#x43f;&#x430;&#x43a;&#x435;&#x442;&#x43e;&#x432; npm" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_310425294" CREATED="1472903319111" MODIFIED="1472903911270"/>
+<node TEXT="&#x43f;&#x43e;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43a;&#x430; &#x43c;&#x43d;&#x43e;&#x436;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43d;&#x43d;&#x44b;&#x445; &#x441;&#x43e;&#x435;&#x434;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x439; (~1 000)" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_828808961" CREATED="1472903338844" MODIFIED="1472903912049"/>
+<node TEXT="&#x43d;&#x435;&#x431;&#x43b;&#x43e;&#x43a;&#x438;&#x440;&#x43e;&#x443;&#x44e;&#x449;&#x438;&#x439; &#x432;&#x432;&#x43e;&#x434;-&#x432;&#x44b;&#x432;&#x43e;&#x434;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_996626899" CREATED="1472903757339" MODIFIED="1472903913650"/>
+<node TEXT="" STYLE_REF="&#x41f;&#x435;&#x440;&#x435;&#x447;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x435;" ID="ID_135702804" CREATED="1472903803587" MODIFIED="1472903922290">
+<node TEXT="2009 &#x433;&#x43e;&#x434;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1627817112" CREATED="1472903807434" MODIFIED="1472903932667"/>
+<node TEXT="&#x420;&#x430;&#x439;&#x43d; &#x414;&#x430;&#x43b; (Ryan Dahl)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_299652288" CREATED="1472903827752" MODIFIED="1472903929393"/>
+</node>
+<node TEXT="&#x441;&#x43e;&#x431;&#x44b;&#x442;&#x438;&#x439;&#x43d;&#x43e;-&#x43e;&#x440;&#x438;&#x43d;&#x442;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x43d;&#x43e;&#x435;, &#x430;&#x441;&#x438;&#x43d;&#x445;&#x440;&#x43e;&#x43d;&#x43d;&#x43e;&#x435; &#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435;" STYLE_REF="&#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a;&#x411;&#x435;&#x437;&#x420;&#x430;&#x43c;&#x43a;&#x438;" ID="ID_1308415686" CREATED="1472903480129" MODIFIED="1472903927258"/>
+</node>
+<node TEXT="moduls" ID="ID_795270663" CREATED="1472912189060" MODIFIED="1472912215780">
+<node TEXT="require()" ID="ID_1922455418" CREATED="1472912217005" MODIFIED="1472918559767">
+<node TEXT="&#x43f;&#x43e;&#x434;&#x43a;&#x43b;&#x44e;&#x447;&#x435;&#x43d;&#x438;&#x435; &#x43c;&#x43e;&#x434;&#x443;&#x43b;&#x44f;" ID="ID_1818473328" CREATED="1472918563949" MODIFIED="1472918573875"/>
+<node TEXT="require(&apos;./user&apos;);" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1288687847" CREATED="1472918578459" MODIFIED="1472918675210"/>
+</node>
+<node TEXT="module.parent" ID="ID_405735011" CREATED="1472918959342" MODIFIED="1472918966065">
+<node TEXT="&#x44d;&#x442;&#x43e; &#x43c;&#x43e;&#x434;&#x443;&#x43b;&#x44c;, &#x438;&#x43b;&#x438; &#x437;&#x430;&#x433;&#x440;&#x443;&#x437;&#x43e;&#x447;&#x43d;&#x44b;&#x439; &#x444;&#x430;&#x439;&#x43b;" ID="ID_174947001" CREATED="1472920813191" MODIFIED="1472920832380"/>
+<node TEXT="object / null" ID="ID_832630496" CREATED="1472920833089" MODIFIED="1472920850777"/>
+</node>
+<node TEXT="types" ID="ID_611879709" CREATED="1472920686781" MODIFIED="1472920693410">
+<node TEXT="" ID="ID_1675320587" CREATED="1472920730014" MODIFIED="1472920730014">
+<node TEXT="NODE" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1184981722" CREATED="1472920694384" MODIFIED="1472920738621"/>
+<node TEXT="JSON" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_62387996" CREATED="1472920698032" MODIFIED="1472920740913">
+<node TEXT="&#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x435; &#x432; &#x444;&#x43e;&#x440;&#x43c;&#x430;&#x442;&#x435; json" ID="ID_702203776" CREATED="1472920913757" MODIFIED="1472920929549"/>
+</node>
+<node TEXT="JS" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_218965995" CREATED="1472920704864" MODIFIED="1472920741597">
+<node TEXT="&#x43f;&#x43e;&#x434;&#x43a;&#x43b;&#x44e;&#x447;&#x430;&#x435;&#x43c;&#x44b;&#x439; &#x441;&#x43a;&#x440;&#x438;&#x43f;&#x442;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1509174809" CREATED="1472920752496" MODIFIED="1472920783348"/>
+<node TEXT="variables" ID="ID_383124982" CREATED="1472918599338" MODIFIED="1472918606007">
+<node TEXT="system exports" ID="ID_143507889" CREATED="1472918754494" MODIFIED="1472918768016">
+<node TEXT="module.exports = User;&#xa;///&#xa;var User =  require(&apos;./user&apos;);" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1741683459" CREATED="1472918608962" MODIFIED="1472918683844"/>
+</node>
+<node TEXT="globals" ID="ID_812691324" CREATED="1472918772991" MODIFIED="1472918777006">
+<node TEXT="global.settings = {a: 2, b: 3};&#xa;///&#xa;console.log(&quot;settings &quot; + settings.a, settings.b);" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1521510152" CREATED="1472918712279" MODIFIED="1472918738307"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="&#x43f;&#x43e;&#x438;&#x441;&#x43a; .js -&gt; .json" ID="ID_244512193" CREATED="1472920710409" MODIFIED="1472920909723"/>
+</node>
+<node TEXT="&#x43f;&#x43e;&#x438;&#x441;&#x43a; &#x444;&#x430;&#x439;&#x43b;&#x43e;&#x432;" ID="ID_1482501039" CREATED="1472920295846" MODIFIED="1472920304840">
+<node TEXT="node_modules" ID="ID_987157857" CREATED="1472920306132" MODIFIED="1472920389734">
+<cloud COLOR="#ffff99" SHAPE="ROUND_RECT"/>
+<node TEXT="module.path" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_530089456" CREATED="1472920319569" MODIFIED="1472920380835"/>
+<node TEXT="&#x438;&#x449;&#x435;&#x442; &#x438; &#x432; &#x440;&#x43e;&#x434;&#x438;&#x442;&#x435;&#x43b;&#x44c;&#x441;&#x43a;&#x438;&#x445;&#xa;&#x434;&#x435;&#x440;&#x438;&#x43a;&#x442;&#x43e;&#x440;&#x438;&#x44f;&#x445;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_245683179" CREATED="1472920348008" MODIFIED="1472920378138"/>
+</node>
+<node TEXT="&#x430;&#x431;&#x441;&#x43e;&#x43b;&#x44e;&#x442;&#x43d;&#x44b;&#x439; &#x43f;&#x443;&#x442;&#x44c;" ID="ID_649563240" CREATED="1472920402797" MODIFIED="1472920409886"/>
+</node>
+<node TEXT="module.exports = exports = this" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1103523931" CREATED="1472919246337" MODIFIED="1472919268955"/>
+</node>
+<node TEXT="npm" ID="ID_1761608158" CREATED="1500985267601" MODIFIED="1500985271603">
+<node TEXT="&#x441;&#x431;&#x43e;&#x440;&#x449;&#x438;&#x43a; &#x43f;&#x430;&#x43a;&#x435;&#x442;&#x43e;&#x432;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_233649575" CREATED="1500985272826" MODIFIED="1500985283656"/>
+<node TEXT="&#x43e;&#x441;&#x43d;&#x43e;&#x432;&#x43d;&#x44b;&#x435; &#x43a;&#x430;&#x442;&#x43e;&#x43b;&#x43e;&#x433;&#x438;" ID="ID_908987146" CREATED="1500986259142" MODIFIED="1500986269782">
+<node TEXT="build" ID="ID_108458738" CREATED="1500986270931" MODIFIED="1500986277693">
+<node TEXT="&#x43a;&#x443;&#x434;&#x430; &#x441;&#x43e;&#x431;&#x438;&#x440;&#x430;&#x435;&#x442;&#x441;&#x44f; &#x43f;&#x430;&#x43a;&#x435;&#x442;" ID="ID_739712653" CREATED="1500987004584" MODIFIED="1500987017122"/>
+</node>
+<node TEXT="src" ID="ID_394894574" CREATED="1500986278321" MODIFIED="1500986292689">
+<node TEXT="&#x43f;&#x443;&#x442;&#x44c; &#x434;&#x43b;&#x44f; &#x43f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x435;&#x43b;&#x44c;&#x441;&#x43a;&#x438;&#x445; &#x444;&#x430;&#x439;&#x43b;&#x43e;&#x432;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1074339461" CREATED="1500987022960" MODIFIED="1500987066747"/>
+</node>
+<node TEXT="www" ID="ID_277948144" CREATED="1500986293255" MODIFIED="1500986296963"/>
+</node>
+</node>
+<node TEXT="console.log" ID="ID_1224527066" CREATED="1472912222512" MODIFIED="1472912236448">
+<node TEXT="&#x432;&#x44b;&#x432;&#x43e;&#x434; &#x432; &#x442;&#x435;&#x440;&#x43c;&#x438;&#x43d;&#x430;&#x43b;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1781108708" CREATED="1472912239706" MODIFIED="1500987046296"/>
+<node TEXT="" ID="ID_3452530" CREATED="1472912248248" MODIFIED="1472912248248">
+<node TEXT="console.log(&quot;hello&quot; + who);" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_191803234" CREATED="1472912263147" MODIFIED="1472912362825"/>
+<node TEXT="$ nodejs server.js&#xa;Create user Petya&#xa;Create user Micha" LOCALIZED_STYLE_REF="defaultstyle.note" ID="ID_1710998792" CREATED="1472912314345" MODIFIED="1472912361672"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="sources" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="left" ID="ID_673706872" CREATED="1400681545749" MODIFIED="1472216280304">
+<edge COLOR="#009999"/>
+<node TEXT="&#x41a;&#x443;&#x440;&#x441; &#x432;&#x438;&#x434;&#x435;&#x43e;-&#x43b;&#x435;&#x43a;&#x446;&#x438;&#x439;&#xa;&quot;&#x41f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435; &#x43d;&#x430; JavaScript&quot;&#xa;&#x420;&#x430;&#x445;&#x438;&#x43c; &#x414;&#x430;&#x432;&#x43b;&#x435;&#x442;&#x43a;&#x430;&#x43b;&#x438;&#x435;&#x432;" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1946240236" CREATED="1400843986227" MODIFIED="1436443939617" LINK="https://hexlet.org/course/javascript/">
+<font SIZE="10"/>
+</node>
+<node TEXT="&quot;JavaScript &#x440;&#x443;&#x43a;&#x43e;&#x432;&#x43e;&#x434;&#x441;&#x442;&#x432;&#x43e; &#x440;&#x430;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x447;&#x438;&#x43a;&#x430;&quot;&#xa;&#x414;&#x436;&#x43e;&#x43d; &#x41f;&#x43e;&#x43b;&#x43b;&#x43e;&#x43a; ISBN 978-5-459-00462-5" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_211690695" CREATED="1405327609456" MODIFIED="1436443939622">
+<font SIZE="10"/>
+</node>
+<node TEXT="ecmascript-262 (5.1)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_17994109" CREATED="1439983606869" MODIFIED="1439983660842" LINK="http://es5.github.io/"/>
 </node>
 </node>
 </map>
